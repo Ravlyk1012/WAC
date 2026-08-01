@@ -1,0 +1,19 @@
+{
+    "node_key":"lower_sorbian",
+    "name":"下ソルブ語",
+    "code":"dsb",
+    "native_name":"dolnoserbski",
+    "ipa":"[ˈdɔlnɔˌsɛrskʲi]",
+    "summary":"ドイツ東部ブランデンブルク州のコトブス周辺で話される少数言語であり、絶滅の危機に瀕している。ラテン文字を用いる。上ソルブ語同様に双数形を保持しているほか、移動動詞の後にのみ現れる目的過去（スピーヌム）が残存している。",
+    "classification":"インド・ヨーロッパ語族 > スラヴ語派 > 西スラヴ語群",
+    "script":"ラテン文字",
+    "speakers":"約5000人",
+    "distribution":"ドイツ・ブランデンブルク州",
+    "parent":"sorbian",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E4%BD%8E%E5%9C%B0%E3%82%BD%E3%83%AB%E3%83%96%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Lower_Sorbian_language",
+    "flag_image":"flags/sb.svg"
+}

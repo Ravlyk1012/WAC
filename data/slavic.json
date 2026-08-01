@@ -1,0 +1,22 @@
+{
+    "node_key":"slavic",
+    "name":"スラヴ語派",
+    "code":"sla",
+    "native_name":"",
+    "ipa":"",
+    "summary":"スラヴ祖語は紀元前にインド・ヨーロッパ祖語から分かれ、西暦数世紀頃まで話されたとされる。「開音節の法則」や徹底した口蓋化による音節構造の激変、および7格・3数（単・双・複）の強固な文法体系が特徴で、娘言語にも子音の硬軟の対立（硬口蓋化の有無）や豊富な格変化・動詞活用、動詞アスペクトの区別などの共通特徴が受け継がれている。",
+    "classification":"インド・ヨーロッパ語族",
+    "script":"キリル文字、ラテン文字",
+    "speakers":"約3億人",
+    "distribution":"ヨーロッパ、旧ソ連諸国、北米など",
+    "features":[
+    ],
+    "classification_notes":"",
+    "parent":"indoeuropean",
+    "node_type":"branch",
+    "status":"reconstructed",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%A9%E3%83%B4%E8%AA%9E%E6%B4%BE",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Slavic_languages",
+    "flag_image":""
+}

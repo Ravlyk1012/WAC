@@ -1,0 +1,22 @@
+{
+    "node_key":"east_slavic",
+    "name":"東スラヴ語群",
+    "code":"zle",
+    "native_name":"",
+    "ipa":"",
+    "summary":"ウクライナ、ベラルーシ、ロシア、および周辺地域に広がるスラヴ語派最大のグループ。共通してキリル文字を用いる。祖語の音節構造が母音を2つ伴う形へと発達した充音（pleophony）現象や、過去時制における現在助動詞の消失という共通の大きな特徴を持つ。",
+    "classification":"インド・ヨーロッパ語族 > スラヴ語派",
+    "script":"キリル文字",
+    "speakers":"約2億人",
+    "distribution":"東ヨーロッパから北東アジアなど",
+    "features":[
+    ],
+    "classification_notes":"",
+    "parent":"slavic",
+    "node_type":"group",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E6%9D%B1%E3%82%B9%E3%83%A9%E3%83%B4%E8%AA%9E%E7%BE%A4",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/East_Slavic_languages",
+    "flag_image":""
+}

@@ -1,0 +1,19 @@
+{
+    "node_key":"bcms",
+    "name":"セルビア・クロアチア語",
+    "code":"hbs",
+    "native_name":"srpskohrvatski / српскохрватски",
+    "ipa":"[sr̩pskoxř̩ʋaːtskiː]",
+    "summary":"旧ユーゴスラヴィアの基幹言語。南スラヴ語群の中央を占め、キリル文字とラテン文字の双方を用いる。方言学的には同一の言語（シュト方言）をベースとするが、ユーゴ解体後は政治的・アイデンティティの観点から4つの独立した国語に分かれた。",
+    "classification":"インド・ヨーロッパ語族 > スラヴ語派 > 南スラヴ語群",
+    "script":"ラテン文字、キリル文字",
+    "speakers":"約1700万人",
+    "distribution":"セルビア、クロアチア、ボスニア・ヘルツェゴヴィナ、モンテネグロなど",
+    "parent":"w_south_slavic",
+    "node_type":"complex",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%AB%E3%83%93%E3%82%A2%E3%83%BB%E3%82%AF%E3%83%AD%E3%82%A2%E3%83%81%E3%82%A2%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Serbo-Croatian",
+    "flag_image":"flags/ys.svg"
+}

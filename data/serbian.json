@@ -1,0 +1,19 @@
+{
+    "node_key":"serbian",
+    "name":"セルビア語",
+    "code":"srp",
+    "native_name":"српски / srpski",
+    "ipa":"[sr̩̂pskiː]",
+    "summary":"セルビアなどの公用語。公式にはキリル文字（日常的にはラテン文字も）を用いる。ロシア語や古教会スラヴ語の語彙を好む。",
+    "classification":"インド・ヨーロッパ語族 > スラヴ語派 > 南スラヴ語群",
+    "script":"キリル文字、ラテン文字",
+    "speakers":"約800万人",
+    "distribution":"セルビアなど",
+    "parent":"bcms",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%AB%E3%83%93%E3%82%A2%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Serbian_language",
+    "flag_image":"flags/sr.svg"
+}

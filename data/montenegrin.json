@@ -1,0 +1,19 @@
+{
+    "node_key":"montenegrin",
+    "name":"モンテネグロ語",
+    "code":"cnr",
+    "native_name":"crnogorski / црногорски",
+    "ipa":"[tsr̩nǒɡorskiː]",
+    "summary":"モンテネグロの公用語。ラテン文字とキリル文字を併用する。4言語の中で最も最近公用語化がなされた。",
+    "classification":"インド・ヨーロッパ語族 > スラヴ語派 > 南スラヴ語群",
+    "script":"ラテン文字、キリル文字",
+    "speakers":"約20万人",
+    "distribution":"モンテネグロなど",
+    "parent":"bcms",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%83%86%E3%83%8D%E3%82%B0%E3%83%AD%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Montenegrin_language",
+    "flag_image":"flags/me.svg"
+}

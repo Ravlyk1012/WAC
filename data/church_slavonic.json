@@ -1,0 +1,18 @@
+{
+    "node_key":"church_slavonic",
+    "name":"教会スラヴ語",
+    "code":"chu",
+    "native_name":"Црькъвьнословѣньскъ ѩꙁꙑкъ\nЦерковнославѧнскїй ѧ҆зыкъ\nⱌⱃⰽⰲⰰⱀⱁⱄⰾⱁⰲⱑⱀⱄⰽⱜ ⰵⰸⰻⰽⱜ\nⱌⰹⱃⱏⰽⱏⰲⱏⱀⱁⱄⰾⱁⰲⱑⱀⱐⱄⰽⱏⰹ ⱗⰸⱏⰻⰽⱏ",
+    "summary":"古教会スラヴ語（OCS）を起源とし、中世以降、各地のスラヴ語の要素を吸収しながら発展・地域化した宗教・典礼言語。独自の各国方言を生み出し、特にロシア教会スラヴ語は近代ロシア文語の形成に計り知れない影響を与えた。現在も東方正教会のミサ（神聖礼儀）の典礼言語として現役で使われる。",
+    "classification":"インド・ヨーロッパ語族 > スラヴ語派 > 南スラヴ語群",
+    "script":"グラゴル文字、キリル文字",
+    "speakers":"典礼言語",
+    "distribution":"ロシア、ブルガリア、セルビア、ウクライナ、ポーランドなど東ヨーロッパの正教会",
+    "parent":"old_church_slavonic",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E6%95%99%E4%BC%9A%E3%82%B9%E3%83%A9%E3%83%B4%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Church_Slavonic",
+    "flag_image":"flags/cs.svg"
+}

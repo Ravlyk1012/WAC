@@ -1,0 +1,19 @@
+{
+    "node_key":"bulgarian",
+    "name":"ブルガリア語",
+    "code":"bul",
+    "native_name":"български език",
+    "ipa":"[ˈbɤɫɡɐrski ɛˈzik]",
+    "summary":"ブルガリアの公用語。キリル文字を用いる。他のスラヴ語とは一線を画し、格変化の完全な消失や後置定冠詞の発達といった「バルカン言語連合」特有のドラスティックな文法簡素化を遂げた言語である。",
+    "classification":"インド・ヨーロッパ語族 > スラヴ語派 > 南スラヴ語群",
+    "script":"キリル文字",
+    "speakers":"約800万人",
+    "distribution":"ブルガリア、ルーマニア、ハンガリー、トルコその他周辺国など",
+    "parent":"e_south_slavic",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%82%AC%E3%83%AA%E3%82%A2%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Bulgarian_language",
+    "flag_image":"flags/bg.svg"
+}

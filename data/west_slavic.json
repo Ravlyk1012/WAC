@@ -1,0 +1,22 @@
+{
+    "node_key":"west_slavic",
+    "name":"西スラヴ語群",
+    "code":"zlw",
+    "native_name":"",
+    "ipa":"",
+    "summary":"ポーランド、チェコ、スロバキア、およびドイツ東部で話されるグループ。歴史的にカトリック文化圏に属したため、共通してラテン文字を用いる。東・南スラヴ語群とは異なり、アクセントの位置が特定の音節（語頭または語尾近く）に固定されている点や、厳格なクリティック（接語）の語順規則を持つ点が際立っている。",
+    "classification":"インド・ヨーロッパ語族 > スラヴ語派",
+    "script":"ラテン文字",
+    "speakers":"約6000万人",
+    "distribution":"中央ヨーロッパ、東ヨーロッパなど",
+    "features":[
+    ],
+    "classification_notes":"",
+    "parent":"slavic",
+    "node_type":"group",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E8%A5%BF%E3%82%B9%E3%83%A9%E3%83%B4%E8%AA%9E%E7%BE%A4",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/West_Slavic_languages",
+    "flag_image":""
+}

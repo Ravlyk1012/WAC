@@ -1,0 +1,30 @@
+{
+    "node_key":"czech",
+    "name":"チェコ語",
+    "code":"ces",
+    "native_name":"čeština, český jazyk",
+    "ipa":"[ˈt͡ʃɛʃcɪna], [ˈt͡ʃɛskiː ˈjazɪk]",
+    "summary":"チェコ共和国の公用語。ラテン文字を用いる。世界的に珍しい巻き舌の摩擦音 [ř] や、母音を含まない音節（音節主音的流音）の発達といった音声的特徴を持つ。歴史的な国語純化運動により、外来語を排した自国語化が進んだ。",
+    "classification":"インド・ヨーロッパ語族 > スラヴ語派 > 西スラヴ語群",
+    "script":"ラテン文字",
+    "speakers":"約1200万人",
+    "distribution":"チェコ、スロヴァキア、その他周辺国など",
+    "features":[
+        "長母音と短母音を区別する：pata [ˈpata] 「かかと」 vs. pátá [ˈpaːtaː] 「第5の」［女］",
+        "アクセントは語の第1音節に置かれる： kopat [ˈkopat] 「掘る」、nejneobhospodařovatelnější [ˈnɛjɲɛobhospodar̝ovatɛlɲɛjʃiː] 「最も耕作不可能な」",
+        "世界でも極めて珍しい子音ř [r̝] を持つ。この子音は、歯茎ふるえ音（巻き舌）[r] に摩擦音が加わったような音で、日本語では「ルジャ」、「ルザ」などと音写される：Dvořák [ˈdvor̝aːk] 「ドヴォルザーク」、rybář [ˈrɪbaːr̝̊] 「漁夫」",
+        "r や l が [r̩], [l̩] として母音の役割を果たす（音節主音）ため、表記上母音が一切ない単語が存在する：trh [ˈtr̩x] 「市場」、vlk [ˈvl̩k] 「オオカミ」、Strč prst skrz krk. [str̩t͡ʃ pr̩st skr̩s kr̩k] 「指を喉に突っ込め（早口言葉）」",
+        "古い文法を基に標準語を整備したため、日常会話では標準語と異なる口語形が広く用いられる。\n 例として、形容詞では、男性単数主格語尾-ýは口語で -ej、単数中性主格語尾 -é は口語で -ý となり、男性・中性の単数生格（属格）語尾 -ého は口語で – ýho となる：dobrý kluk > dobrej kluk 「良い男の子」、dobré auto > dobrý auto 「良い車」、dobrého kluka/auta > dobrýho kluka/autan\n 名詞では、複数造格（具格）の語尾は名詞によって -y, -mi, -ami など様々であるが、口語ではすべて双数に由来する -ma の語尾をとる： kluky > klukama 「男の子たちによって」、lidmi > lidma 「人々によって」、ženami > ženama 「女性たちによって」\n 動詞では、第3変化動詞の現在変化において1人称単数語尾 -ji 及び3人称複数語尾 -jí が口語ではそれぞれ -ju, -jouとなる：piji > piju 「私は飲む」、pijí > pijou 「彼らは飲む」",
+        "名詞・形容詞は7つの格を持ち、呼格が生産的に用いられる：kniha「本（が）」［主格］ - knihy「本の」［生格／属格］ - knize「本に」［与格］ - knihu「本を」［対格］ - knihou「本によって」［造格／具格］ - v/na knize「本の中に／本の上（表面）に」［前置格／処格］- kniho! 「本よ！」[呼格]",
+        "不完了体の動詞に反復の意味を付加する接尾辞 -vat が他のスラヴ語と比べても非常に生産的に用いられ体系的に動詞を派生させる。口語ではさらにこれが重なって反復の意味が強調される場合がある：pít 「飲む」> pívat 「いつも飲む、日常的に飲む」、chodit 「歩く、（歩いて）通う」 > chodívat 「いつも／よく通っている」 > chodívávat 「四六時中通いつめる」",
+        "言語純化運動が進んでおり、新語を含む外来語を造語によって翻訳借用する強い傾向がある：divadlo 「劇場」、hudba 「音楽」、počítač 「コンピューター」（参考：ポーランド語 teatr, muzyka, komputer　ロシア語 театр, музыка, компьютер）"
+    ],
+    "classification_notes":"",
+    "parent":"czechoslovak",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%82%B3%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Czech_language",
+    "flag_image":"flags/cz.svg"
+}

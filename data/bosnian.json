@@ -1,0 +1,19 @@
+{
+    "node_key":"bosnian",
+    "name":"ボスニア語",
+    "code":"bos",
+    "native_name":"bosanski / босански",
+    "ipa":"[bɔ̌sanskiː]",
+    "summary":"ボスニア・ヘルツェゴビナの公用語。ラテン文字（歴史的にはキリルも）を用いる。[h]の発音を明瞭に保持している。",
+    "classification":"インド・ヨーロッパ語族 > スラヴ語派 > 南スラヴ語群",
+    "script":"ラテン文字",
+    "speakers":"約300万人",
+    "distribution":"ボスニア・ヘルツェゴヴィナなど",
+    "parent":"bcms",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%9C%E3%82%B9%E3%83%8B%E3%82%A2%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Bosnian_language",
+    "flag_image":"flags/ba.svg"
+}

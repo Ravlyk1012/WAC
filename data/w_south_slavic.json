@@ -1,0 +1,14 @@
+{
+    "node_key":"w_south_slavic",
+    "name":"西部南スラヴ諸語",
+    "summary":"南スラヴ語群のうち、スロヴェニア語およびセルビア・クロアチア語（セルビア語、クロアチア語、ボスニア語、モンテネグロ語）を包含するグループ。ラテン文字とキリル文字が併用される。東部南スラヴ語とは対照的に複雑な格変化体系を維持したほか、音の高低で意味を弁別する音楽的なピッチアクセントを色濃く残している。",
+    "classification":"インド・ヨーロッパ語族 > スラヴ語派 > 南スラヴ語群",
+    "script":"ラテン文字、キリル文字",
+    "speakers":"約2000万人",
+    "distribution":"中・西バルカンなど",
+    "parent":"south_slavic",
+    "node_type":"subgroup",
+    "status":"living",
+    "controversial":false,
+    "flag_image":"flags/wstsouth.svg"
+}

@@ -1,0 +1,18 @@
+{
+    "node_key":"old_church_slavonic",
+    "name":"†古教会スラヴ語",
+    "code":"chu",
+    "native_name":"ⱄⰾⱁⰲⱑⱀⱐⱄⰽⱏ ⱗⰸⱏⰺⰽⱏ / словѣньскъ ѩꙁꙑкъ",
+    "summary":"9世紀に成立した最古の文語スラヴ語。グラゴル文字や初期キリル文字で記され、東方正教会の伝道とスラヴ諸語の文語形成に決定的な影響を与えた。祖語の豊かな格変化や動詞体系を留める、比較言語学上の最高峰の資料である。",
+    "classification":"インド・ヨーロッパ語族 > スラヴ語派 > 南スラヴ語群",
+    "script":"グラゴル文字、キリル文字",
+    "speakers":"死語",
+    "distribution":"ビザンツ帝国影響下のスラヴ語地域",
+    "parent":"e_south_slavic",
+    "node_type":"proto",
+    "status":"historical",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E5%8F%A4%E4%BB%A3%E6%95%99%E4%BC%9A%E3%82%B9%E3%83%A9%E3%83%B4%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Old_Church_Slavonic",
+    "flag_image":"flags/ocs.svg"
+}

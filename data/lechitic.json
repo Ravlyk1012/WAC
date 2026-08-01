@@ -1,0 +1,22 @@
+{
+    "node_key":"lechitic",
+    "name":"レヒト諸語",
+    "code":"",
+    "native_name":"",
+    "ipa":"",
+    "summary":"ポーランド語、カシューブ語、およびすでに絶滅したポラーブ語などを含む西スラヴ語群の一大グループ。ラテン文字を用いる。他の姉妹諸語が失ってしまった祖語の鼻母音（ę, ą）を現代まで保持し続けていることや、アクセントが語頭に固定されない点において、他の西スラヴ語群と明確に区別される。",
+    "classification":"インド・ヨーロッパ語族 > スラヴ語派 > 西スラヴ語群",
+    "script":"ラテン文字",
+    "speakers":"約4000万人",
+    "distribution":"ポーランドなど",
+    "features":[
+    ],
+    "classification_notes":"",
+    "parent":"west_slavic",
+    "node_type":"subgroup",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%92%E3%83%88%E8%AB%B8%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Lechitic_languages",
+    "flag_image":"flags/lech.svg"
+}

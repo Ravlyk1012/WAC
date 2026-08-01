@@ -1,0 +1,19 @@
+{
+    "node_key":"croatian",
+    "name":"クロアチア語",
+    "code":"hrv",
+    "native_name":"hrvatski",
+    "ipa":"[xř̩ʋaːtskiː]",
+    "summary":"クロアチアなどの公用語。ラテン文字を用いる。国語順化運動により外来語の置き換えが進んでいる。",
+    "classification":"インド・ヨーロッパ語族 > スラヴ語派 > 南スラヴ語群",
+    "script":"ラテン文字",
+    "speakers":"約600万人",
+    "distribution":"クロアチアなど",
+    "parent":"bcms",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%82%A2%E3%83%81%E3%82%A2%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Croatian_language",
+    "flag_image":"flags/hr.svg"
+}

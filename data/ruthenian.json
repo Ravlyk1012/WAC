@@ -1,0 +1,22 @@
+{
+    "node_key":"ruthenian",
+    "name":"†ルテニア語",
+    "code":"",
+    "native_name":"рускаꙗ мова, рускїй ѧзыкъ, проста(ѧ) мова, простй ѧзыкъ",
+    "ipa":"",
+    "summary":"中世から近世にかけてポーランド・リトアニア共和国の行政・文語として栄えた、古ウクライナ・ベラルーシ語の共通の祖先にあたる言語。キリル文字を用いる。西スラヴ語（特にポーランド語）との濃密な接触を通じ、ロシア語とは一線を画す独自の西欧系語彙や統語的特徴を現代のウクライナ語・ベラルーシ語・ルシン語へと受け継がせた。",
+    "classification":"インド・ヨーロッパ語族 > スラヴ語派 > 東スラヴ語群",
+    "script":"キリル文字",
+    "speakers":"死語",
+    "distribution":"ポーランド・リトアニア共和国の東スラヴ地域",
+    "features":[
+    ],
+    "classification_notes":"",
+    "parent":"east_slavic",
+    "node_type":"proto",
+    "status":"historical",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%82%B7%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Ruthenian_language",
+    "flag_image":"flags/ruth.svg"
+}

@@ -1,0 +1,594 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Montserrat:wght@600;700&display=swap');
+
+/* ==============================
+   ページ全体
+============================== */
+
+body{
+
+font-family:
+"Inter",
+sans-serif;
+
+padding:30px;
+
+color: #555;
+
+}
+
+/* 日本語 */
+:lang(ja){
+    font-family:
+        "Noto Sans JP",
+        sans-serif;
+}
+
+/* ロシア語・ウクライナ語などキリル文字 */
+:lang(ru),
+:lang(uk),
+:lang(bg),
+:lang(sr),
+:lang(el){
+    font-family:
+        "Noto Sans",
+        sans-serif;
+}
+
+
+/* アラビア語 */
+:lang(ar){
+    font-family:
+        "Noto Sans Arabic",
+        sans-serif;
+}
+
+header{
+
+    text-align:center;
+
+    margin:50px auto 40px;
+
+}
+
+
+header h1{
+
+    font-family:
+    "Montserrat SemiBold",
+    sans-serif;
+
+    font-size:clamp(36px,5vw,64px);
+
+    letter-spacing:0.15em;
+
+    font-weight:700;
+
+    margin:0;
+
+    color:#204080;
+
+}
+
+
+header #subtitle{
+
+    font-family:
+    "Inter",
+    sans-serif;
+
+    font-size:22px;
+
+    letter-spacing:0.08em;
+
+    margin-top:10px;
+
+    color:#555;
+
+}
+
+
+header #tagline{
+
+    font-size:16px;
+
+    font-style:italic;
+
+    letter-spacing:0.15em;
+
+    margin-top:15px;
+
+    color:#888;
+
+}
+
+header::after{
+
+    content:"";
+
+    display:block;
+
+    width:120px;
+
+    height:2px;
+
+    background:#204080;
+
+    margin:25px auto;
+
+}
+
+.root::before{
+
+    display:none;
+
+}
+
+.root::after{
+
+    display:none;
+
+}
+
+/* ==============================
+   枝を書く
+============================== */
+
+.node{
+
+    white-space: nowrap;
+
+    position: relative;
+
+    padding: 5px 8px;
+
+    cursor:pointer;
+
+}
+
+.node::before {
+  content: "";
+  position: absolute;
+  left: -8px;
+  top: 0px;          /* 上の兄弟からつなぐ */
+  bottom: -14px;       /* 下の兄弟へ伸ばす */
+  border-left: 1px solid #3972b2;
+}
+
+/* 通常branchの横線 */
+.node::after {
+  content: "";
+  position: absolute;
+  top: .75em;
+  left: -8px;
+  width: 10px;
+  border-bottom: 2px solid #3972b2;
+}
+
+.node:last-child::before {
+  bottom: calc(100% - 0.75em);
+}
+
+
+.children{
+
+margin-left:30px;
+
+padding-left:20px;
+
+}
+
+
+.node:hover{
+
+color:#3972b2;
+
+background:#eef5ff;
+
+border-radius:6px;
+
+}
+
+.tree-flag{
+
+    width:1.2em;
+
+    height:0.9em;
+
+    object-fit:cover;
+
+    vertical-align:-0.12em;
+
+    margin-right:0.4em;
+
+    border:1px solid #ccc;
+
+    border-radius:2px;
+
+}
+
+
+
+
+#layout {
+    display:block;
+}
+
+#tree {
+    width:min(800px,100%);
+    margin:auto;
+}
+
+
+.modal {
+
+position:fixed;
+
+top:0;
+left:0;
+
+width:100%;
+height:100%;
+
+background:rgba(0,0,0,0.35);
+
+display:none;
+
+justify-content:center;
+
+align-items:center;
+
+z-index:1000;
+
+}
+
+.modal-card {
+
+background:white;
+
+width:min(700px,90%);
+
+max-height:85vh;
+
+overflow:auto;
+
+border-radius:15px;
+
+padding:20px;
+
+box-shadow:0 10px 30px rgba(0,0,0,.3);
+
+animation:popup .25s ease;
+
+}
+
+@keyframes popup {
+
+from {
+
+opacity:0;
+
+transform:translateY(20px);
+
+}
+
+to {
+
+opacity:1;
+
+transform:translateY(0);
+
+}
+
+}
+
+#tree.blur {
+
+filter:blur(2px);
+
+opacity:.25;
+
+}
+
+.card{
+
+    /* 白背景 */
+    background:white;
+
+    /* 最大横幅 */
+    max-width:900px;
+
+    /* 中央寄せ */
+    margin:auto;
+
+    /* 内側余白 */
+    padding:30px;
+
+    /* 角を丸く */
+    border-radius:12px;
+
+    /* 影 */
+    box-shadow:0 0 12px rgba(0,0,0,.15);
+
+    max-height:90vh;
+
+    overflow-y:auto;
+
+}
+
+.card-header{
+
+    background:#204080;
+
+    color:white;
+
+    padding: 18px;
+
+    border-radius:12px 12px 0 0;
+
+}
+
+.flag{
+
+    width:72px;
+
+    height:auto;
+
+    border:1px solid #ccc;
+
+    border-radius:6px;
+
+}
+
+/* ==============================
+   原語表記
+============================== */
+
+.native{
+
+    font-style:italic;
+
+    color:#666;
+
+}
+
+
+/* ==============================
+   IPA
+============================== */
+
+.ipa{
+
+    font-family:serif;
+
+    margin-bottom:20px;
+
+}
+
+
+/* ==============================
+   テーブル
+============================== */
+
+table{
+
+    width:100%;
+
+    border-collapse:collapse;
+
+}
+
+
+th{
+
+    width:180px;
+
+    text-align:left;
+
+    padding:8px;
+
+}
+
+
+td{
+
+    padding:8px;
+
+}
+
+
+/* ==============================
+   折りたたみ
+============================== */
+
+details{
+
+    background:#fafafa;
+
+    border:1px solid #ddd;
+
+    border-radius:8px;
+
+    padding:10px 15px;
+
+}
+
+/* ==============================
+   detailsの直後にdetailsが続いた場合だけ余白を入れる
+============================== */
+
+details + details {
+
+    margin-top:20px;
+
+}
+
+summary{
+
+    cursor:pointer;
+
+    font-weight:bold;
+
+}
+
+
+/* 特徴一覧 */
+
+.feature-list{
+
+    padding-left:22px;
+
+    line-height:1.8;
+
+}
+
+.feature-list li{
+
+    margin-bottom:12px;
+
+}
+
+.feature-list br{
+    line-height:2;
+}
+
+pre{
+
+    white-space:pre-wrap;
+
+    font-family:sans-serif;
+
+    line-height:1.8;
+
+}
+
+.classification-note p{
+
+    text-indent:1em;
+
+    line-height:1.8;
+
+    margin-bottom:1em;
+
+}
+
+/* ==============================
+   言語コードタグ
+============================== */
+
+.code{
+
+    font-family:monospace;
+
+    font-size:0.45em;
+
+    font-weight:normal;
+
+    color:#3b6ea8;
+
+    background:#e8f2ff;
+
+    border:1px solid #b8d4f5;
+
+    border-radius:5px;
+
+    padding:3px 8px;
+
+    margin-left:10px;
+
+    vertical-align:middle;
+
+}
+
+/* ==============================
+   パンくず
+============================== */
+
+.breadcrumb{
+
+    font-size:0.82rem;
+
+    color:#6f7b8c;
+
+    margin-bottom:12px;
+
+    letter-spacing:.03em;
+
+}
+
+.breadcrumb-link{
+
+    color: #3972b2;
+
+    cursor:pointer;
+
+}
+
+.breadcrumb-link:hover{
+
+    text-decoration:underline;
+
+}
+
+
+.breadcrumb-current{
+
+    font-weight:bold;
+
+}
+
+.wikipedia-links{
+
+    display:inline-block;
+
+    font-size:0.82rem;
+
+    color:#6f7b8c;
+
+    margin-top:12px;
+
+    letter-spacing:.03em;
+
+}
+
+
+@media(max-width:600px){
+
+body{
+
+padding:15px;
+
+}
+
+}
+
+.expand-mark{
+
+    font-size:0.8em;
+
+    color:#3972b2;
+
+    margin-left:8px;
+
+    font-family:monospace;
+
+}
+
+.info-mark{
+
+    margin-left:10px;
+
+    color:#3972b2;
+
+    font-size:1.2em;
+
+    font-weight:bold;
+
+    cursor:pointer;
+
+}
+
+.node .info-mark{
+
+    display:inline-block;
+
+} 

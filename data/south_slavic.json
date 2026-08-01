@@ -1,0 +1,16 @@
+{
+    "node_key":"south_slavic",
+    "name":"南スラヴ語群",
+    "code":"zls",
+    "summary":"バルカン半島を中心とした広大な地域に展開するグループ。文化的背景によりキリル文字とラテン文字の双方が用いられる。不完了過去やアオリストといった古典的な過去時制の保持が目立つ一方、地域によって格変化の維持（西部）と消失（東部）という対極的な進化を遂げた。",
+    "classification":"インド・ヨーロッパ語族 > スラヴ語派",
+    "script":"ラテン文字、キリル文字",
+    "speakers":"約3000万人",
+    "distribution":"南東ヨーロッパ、旧ソ連諸国など",
+    "parent":"slavic",
+    "node_type":"group",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E5%8D%97%E3%82%B9%E3%83%A9%E3%83%B4%E8%AA%9E%E7%BE%A4",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/South_Slavic_languages"
+}

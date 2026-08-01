@@ -1,0 +1,19 @@
+{
+    "node_key":"upper_sorbian",
+    "name":"上ソルブ語",
+    "code":"hsb",
+    "native_name":"hornjoserbšćina",
+    "ipa":"[ˈhɔʁnʲɔˌsɛʁpʃtʃina]",
+    "summary":"ドイツ東部ザクセン州のバウツェン周辺で話される少数言語。ラテン文字を用いる。現代語としては極めて稀な「双数形（2人・2つのものを表す文法カテゴリー）」が、名詞・形容詞・動詞にいたるまで完全に機能している。",
+    "classification":"インド・ヨーロッパ語族 > スラヴ語派 > 西スラヴ語群",
+    "script":"ラテン文字",
+    "speakers":"約2.5万人",
+    "distribution":"ドイツ・ザクセン州",
+    "parent":"sorbian",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E9%AB%98%E5%9C%B0%E3%82%BD%E3%83%AB%E3%83%96%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Upper_Sorbian_language",
+    "flag_image":"flags/sb.svg"
+}

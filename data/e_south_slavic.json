@@ -1,0 +1,15 @@
+{
+    "node_key":"e_south_slavic",
+    "name":"東部南スラヴ諸語",
+    "summary":"南スラヴ語群のうち、ブルガリア語とマケドニア語を包含するグループ。キリル文字を用いる。ギリシャ、アルバニア、ルーマニアなど隣接する非スラヴ系民族との長年の接触（バルカン言語連合）により、スラヴ語の特徴である豊富な格変化を捨て去り、後置定冠詞を導入するという構造的激変を共有している。",
+    "classification":"インド・ヨーロッパ語族 > スラヴ語派 > 南スラヴ語群",
+    "script":"キリル文字、クラゴル文字",
+    "speakers":"約1000万人",
+    "distribution":"中・東バルカンなど",
+    "parent":"south_slavic",
+    "node_type":"subgroup",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Eastern_South_Slavic",
+    "flag_image":"flags/estsouth.svg"
+}

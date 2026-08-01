@@ -1,0 +1,30 @@
+{
+    "node_key":"slovak",
+    "name":"スロヴァキア語",
+    "code":"slk",
+    "native_name":"slovenčina, slovenský jazyk",
+    "ipa":"[ˈslɔʋentʂina],　[ˈslɔʋenskiː ˈjazik] ",
+    "summary":"スロヴァキア共和国の公用語。ラテン文字を用いる。地理的・構造的に西スラヴ語群の中心に位置し、他言語との相互理解可能性が高い。長母音が連続しないという厳格な「リズム法則」や、豊富な二重母音の保持が特徴である。",
+    "classification":"インド・ヨーロッパ語族 > スラヴ語派 > 西スラヴ語群",
+    "script":"ラテン文字",
+    "speakers":"約700万人",
+    "distribution":"スロヴァキア、チェコ、セルビアその他周辺国など",
+    "features":[
+        "長母音と短母音を区別する：rada [ˈrada] 「助言、評議会」vs. ráda [ˈraːda] 「（女性が）嬉しい」",
+        "豊富な二重母音の体系を有する：mesiac [ˈmesɪ̯at͡s] 「月」、trieda [ˈtrɪ̯ɛda] 「クラス、階層」、stôl [stu̯ɔl] 「机」",
+        "アクセントは語の第1音節に置かれる： kopať [ˈkɔpac] 「掘る」、najneobhospodarovateľnejší [ˈnajɲɛɔbhɔspɔdarɔvatɛlɲɛjʃiː] 「最も耕作不可能な」",
+        "長母音または二重母音が同一語内で連続できないという韻律上の厳格なルール（リズム法則という）があり、格変化語尾などの母音の長短が直前の音節の母音の長短によって変化する：pivo [ˈpiʋɔ] 「ビール」［単・主］ - pivá [ˈpiʋaː] ［複・主］ vs. hniezdo [ˈɦɲɪ̯ezdɔ] 「巣」［単・主］ - hniezda [ˈɦɲɪ̯ezda] ［複・主］",
+        "女性名詞及び中性名詞に関し、複数生格（属格）でゼロ語尾となる際、語幹の最後の母音（または語形変化によって現れたり消えたりする母音）が長母音化または二重母音化する（代償延長）。ただし、語幹の最後の母音が長母音または二重母音である場合は、リズム法則によって代償延長がブロックされ、短母音となる：žena [ˈʒɛna] 「女性」 ［単・主］ - žien [ˈʒɪ̯ɛn] ［複・生（属）］、pivo [ˈpiʋɔ] 「ビール」［単・主］ - pív [piːf] ［複・生（属）］、práca [ˈpraːt͡sa] 「仕事」 ［単・主］ - prác [ˈpraːt͡s] ［複・生（属）］",
+        "名詞・形容詞は6つの格を持ち、呼格を欠く：kniha「本（が）」［主格］ - knihy「本の」［生格／属格］ - knihe「本に」［与格］ - knihu「本を」［対格］ - knihou「本によって」［造格／具格］ - v/na knihe「本の中に／本の上（表面）に」［前置格／処格］",
+        "語形変化の例外が少なく、西スラヴ語群の中でも特に規則性が高いとされる。\n 名詞では、複数造格（具格）の語尾は –(a)mi となる：chlapmi 「男たちによって」、učiteľmi 「教師たちによって」、ženami 「女性たちによって」、kosťami 「骨によって」（参考：チェコ語 chlapy, učiteli, ženami, kostmi）\n また、チェコ語やポーランド語で見られる第二次口蓋化による軟口蓋音の歯擦音化が起こらない：kniha「本（が）」［主格］ -- knihe「本に」［与格］、ruka「手（が）」［主格］ -- ruke「手に」［与格］（参考：チェコ語 kniha – knize, ruka – ruce　ポーランド語 książka – książce, droga 「道」 - drodze）\n 動詞の1人称単数現在系の語尾は -m となる：nesiem 「私は運ぶ」、rozumiem 「私は理解する」、pijem 「私は飲む」（参考： チェコ語 nesu, rozumím, piji/piju　ポーランド語 niosę, rozumiem, piję）",
+        "歴史的にハンガリーの影響力が強く、生活・農業用語等にハンガリー語に由来するまたはハンガリー語経由での語彙が多く見られる： chýr 「噂」 < hír 「ニュース、情報」、ceruza 「鉛筆」 < ceruza、ťava 「ラクダ」 < teve"
+    ],
+    "classification_notes":"",
+    "parent":"czechoslovak",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AD%E3%83%90%E3%82%AD%E3%82%A2%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Slovak_language",
+    "flag_image":"flags/sk.svg"
+}

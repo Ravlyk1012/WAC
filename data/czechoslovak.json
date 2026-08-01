@@ -1,0 +1,22 @@
+{
+    "node_key":"czechoslovak",
+    "name":"チェコスロヴァキア諸語",
+    "code":"",
+    "native_name":"",
+    "ipa":"",
+    "summary":"西スラヴ語群のうち、チェコ語とスロヴァキア語を包括するグループ。ラテン文字を用いる。ポーランド語などのレヒト諸語とは異なりアクセントが常に語頭に固定されること、祖語の鼻母音を通常の母音へと変化させたこと、そして母音を伴わない流音（r, l）が音節の主音を担うことなどの特徴を共有している。",
+    "classification":"インド・ヨーロッパ語族 > スラヴ語派 > 西スラヴ語群",
+    "script":"ラテン文字",
+    "speakers":"約2000万人",
+    "distribution":"チェコ、スロヴァキアなど",
+    "features":[
+    ],
+    "classification_notes":"",
+    "parent":"west_slavic",
+    "node_type":"subgroup",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%82%B3%E3%83%BB%E3%82%B9%E3%83%AD%E3%83%90%E3%82%AD%E3%82%A2%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Czech%E2%80%93Slovak_languages",
+    "flag_image":"flags/czsk.svg"
+}

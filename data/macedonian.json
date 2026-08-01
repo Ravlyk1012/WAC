@@ -1,0 +1,19 @@
+{
+    "node_key":"macedonian",
+    "name":"マケドニア語",
+    "code":"mkd",
+    "native_name":"македонски јазик",
+    "ipa":"[maˈkɛdɔnski ˈjazik]",
+    "summary":"北マケドニア共和国の公用語。キリル文字を用いる。ブルガリア語と極めて近い関係にあり、格変化の消失や後置定冠詞を持つが、アクセントの完全な固定化など独自の音声規則と西側の語彙的特徴を併せ持つ。",
+    "classification":"インド・ヨーロッパ語族 > スラヴ語派 > 南スラヴ語群",
+    "script":"キリル文字",
+    "speakers":"約170万人",
+    "distribution":"北マケドニア、アルバニア、セルビア、ギリシャその他周辺国など",
+    "parent":"e_south_slavic",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B1%E3%83%89%E3%83%8B%E3%82%A2%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Macedonian_language",
+    "flag_image":"flags/mk.svg"
+}

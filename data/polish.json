@@ -1,0 +1,30 @@
+{
+    "node_key":"polish",
+    "name":"ポーランド語",
+    "code":"pol",
+    "native_name":"język polski",
+    "ipa":"[ˈjɛ̃zɘ̟k ˈpɔlskʲi]",
+    "summary":"西スラヴ語群最大の言語であり、ポーランド共和国の公用語。ラテン文字を用いる。現代スラヴ語の中でも祖語の鼻母音（ę, ą）を維持しているほか、複雑な歯擦音の体系や、複数形における「男性人間名詞」の厳格な区別が特徴である。",
+    "classification":"インド・ヨーロッパ語族 > スラヴ語派 > 西スラヴ語群",
+    "script":"ラテン文字",
+    "speakers":"約4000万人",
+    "distribution":"ポーランド、ベラルーシ、その他周辺国など",
+    "features":[
+        "スラヴ祖語の鼻母音に由来するę /ɛ̃/, ą /ɔ̃/を維持している（ただし一度合流の上で再分岐しているため、そのまま受け継いだわけではない）。これらは現代語では純粋な鼻母音というより、「母音＋鼻音」のような実現となることが多く、日本語の「ん」のように直後の子音・母音によって実際の音価が変化する：ręka /ˈrɛ̃ka/ > [ˈrɛŋka]「手」、ząb /zɔ̃p/ > [zɔmp]「歯」",
+        "/ʂ/, /ʐ/, /tʂ/, /ɕ/, /ʑ/, /tɕ/, /dʑ/などいわゆるシュー音の出現頻度が多く、また正書法上これらが複数の文字の組み合わせで表されることが多いため、聴覚的・視覚的に非常に特徴的：szczęście [ˈʂt͡ʂɛj̃ɕ.t͡ɕɛ] 「幸せ」、Grzegorz Brzęczyszczykiewicz [ˈgʐɛgɔʂ bʐɛn̪t͡ʂɨʂt͡ʂɨˈkʲɛvit͡ʂ] 「グジェゴシュ・ブジェンチシチキェヴィチ（コメディ映画Jak rozpętałem II wojnę światowąの登場人物）」",
+        "アクセント位置が後ろから2番目の音節（paenultima）に厳格に固定されるため、語形変化によって音節数が増減すると見かけ上アクセント位置がズレたように見える：kobieta /kɔˈbjɛ.ta/ 「女性が」［単・主］ - kobiet /ˈkɔ.bjɛt/ 「女性たちの」 ［複・生（属）］ - kobietami /kɔ.bjɛˈta.mi/ 「女性たちによって」 ［複・造（具）］",
+        "名詞・形容詞は7つの格を持ち、呼格が生産的に用いられる：książka「本（が）」［主格］ - książki「本の」［生格／属格］ - książce「本に」［与格］ - książkę「本を」［対格］ - książką「本によって」［造格／具格］ - w/na książce「本の中に／本の上（表面）に」［前置格／処格］- książko! 「本よ！」[呼格]",
+        "性の区別は単数においては男性・女性・中性の3性であるが、複数においては「男性の人間」と「それ以外（女性、子ども、動物、無生物）」が厳格に区別され、格変化語尾のほか形容詞の形や動詞の過去形に差が現れる： dobry student 「良い学生」、dobry kot 「良い猫」、dobry dom 「良い家」、dobra kobieta 「良い女性」、dobre dziecko 「良い子ども」 ― dobrzy studenci 「良い学生たち」、dobre koty 「良い猫たち」、dobre domy 「良い家々」、dobre kobiety 「良い女性たち」、dobre dzieci 「良い子どもたち」",
+        "過去形は動詞の-l分詞形にbyćの現在形を元とする人称接辞をつけることで作られる：czytałem / czytałam「私（男・女）は読んだ」- czytałeś / czytałaś「君（男・女）は読んだ」- czytał / czytała / czytało「彼／彼女／それ（化け物など）は読んだ」- czytaliśmy / czytałyśmy 「私たち（男・女）は読んだ」- czytaliście / czytałyście 「あなたがた（男・女）／あなた（男・女）は読んだ」- czytali / czytały 「彼ら//彼女ら／それらは読んだ」",
+        "未来系はbyćの未来形に動詞の-l分詞形を組み合わせる形と不定形を組み合わせる形の両方がある: będę czytał(a) / będę czytać 「私は読むだろう」 - będziesz czytał(a) / będziesz czytać - 「君は読むだろう」 -…- będą czytali(-ły) / będą czytać 「彼ら（彼女ら、それら）は読むだろう」",
+        "法律、制度、宗教用語等をはじめ、ラテン語やドイツ語からの借用語が非常に多い：msza < missa 「ミサ」、ratusz 「役場」 < Rathaus、handel 「商業、貿易」 < Handel"
+    ],
+    "classification_notes":"",
+    "parent":"lechitic",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Polish_language",
+    "flag_image":"flags/pl.svg"
+}
