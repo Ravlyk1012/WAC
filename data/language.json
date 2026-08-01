@@ -1,6 +1,13 @@
 {
     "languages":[
         "indoeuropean.json",
+        "baltoslavic.json",
+        "baltic.json",
+        "east_baltic.json",
+        "lithuanian.json",
+        "latvian.json",
+        "west_baltic.json",
+        "old_prussian.json",
         "slavic.json",
         "east_slavic.json",
         "ruthenian.json",

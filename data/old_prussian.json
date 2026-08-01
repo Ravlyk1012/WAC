@@ -1,0 +1,17 @@
+{
+    "node_key":"old_prussian",
+    "name":"†古プロシア語",
+    "code":"prg",
+    "native_name":"Prūsiskan",
+    "summary":"西バルト語群に属し、現在のバルト語派の記録としては最古の中世の資料（エルビンク単語集など）を残す消滅言語。東バルト語群が失った「中性」の痕跡や、格変化における祖語由来の古い語尾体系など、バルト語派の中でも非常に古い特徴を残す形態体系を備えていた。17世紀末から18世紀初頭にかけて話者が完全にドイツ語へ同化し、死語となった。",
+    "classification":"インド・ヨーロッパ語族 > バルト語派 > 西バルト語群",
+    "script":"ラテン文字",
+    "speakers":"死語（復興運動あり）",
+    "distribution":"歴史的プロシア地域（現在のポーランド北東部からロシアのカリーニングラード州周辺）",
+    "parent":"west_baltic",
+    "node_type":"language",
+    "status":"historical",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AD%E3%82%B7%E3%82%A2%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Old_Prussian_language"
+}

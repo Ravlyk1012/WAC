@@ -1,0 +1,15 @@
+{
+    "node_key":"west_baltic",
+    "name":"西バルト語群",
+    "summary":"バルト海南東岸（現在のポーランド北東部からロシア・カリーニングラード州周辺）に分布していたが、現在はすべて死語となったグループ。東バルト語群に比べて保守的であり、名詞の中性を保持していたとみられるほか、音韻面でも祖語の古い二重母音などをそのまま残していた。13世紀以降、ドイツ騎士団の征服やプロイセン化の波に押され、言語としては消滅の途をたどった。",
+    "classification":"インド・ヨーロッパ語族 > バルト語派",
+    "script":"ラテン文字",
+    "speakers":"死語",
+    "distribution":"バルト海東南岸、歴史的プロシア地域（現在のポーランド北東部・ロシアのカリーニングラード州周辺）",
+    "parent":"baltic",
+    "node_type":"group",
+    "status":"historical",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E8%A5%BF%E3%83%90%E3%83%AB%E3%83%88%E8%AA%9E%E7%BE%A4",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/West_Baltic_languages"
+}

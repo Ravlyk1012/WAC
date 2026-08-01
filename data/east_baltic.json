@@ -1,0 +1,15 @@
+{
+    "node_key":"east_baltic",
+    "name":"東バルト語群",
+    "summary":"バルト語派の東側の系譜であり、リトアニア語とラトヴィア語が現存するただ2つの娘言語である。西バルト語群に比べて二重母音の縮小や、語末の母音・音節の脱落といった音韻論的な簡略化が進んでいるのが特徴である。文法面では中性の消失（男性・女性の2性化）や、再帰動詞の形成などに共通した特徴を持つ。",
+    "classification":"インド・ヨーロッパ語族 > バルト語派",
+    "script":"ラテン文字",
+    "speakers":"約600万人",
+    "distribution":"リトアニア、ラトヴィアなど",
+    "parent":"baltic",
+    "node_type":"group",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E6%9D%B1%E3%83%90%E3%83%AB%E3%83%88%E8%AA%9E%E7%BE%A4",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/East_Baltic_languages"
+}

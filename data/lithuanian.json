@@ -1,0 +1,19 @@
+{
+    "node_key":"lithuanian",
+    "name":"リトアニア語",
+    "code":"lit",
+    "native_name":"lietuvių kalba",
+    "ipa":"[lʲiəˈtʊvʲuː kɐɫˈbɐ]",
+    "summary":"リトアニア共和国の公用語で、ラテン文字を用いる。現生する印欧語の中で「最も祖語の古風な特徴をとどめている言語」と言われることが多く、7つの格（地域によっては向格なども保持）やピッチアクセント（高低アクセント）体系を頑健に保持している。ラトヴィア語に比べて音韻論的な保守性が極めて高く、印欧祖語の研究において極めて重要な価値を持つ。",
+    "classification":"インド・ヨーロッパ語族 > バルト語派 > 東バルト語群",
+    "script":"ラテン文字",
+    "speakers":"約450万人",
+    "distribution":"リトアニアなど",
+    "parent":"east_baltic",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%88%E3%82%A2%E3%83%8B%E3%82%A2%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Lithuanian_language",
+    "flag_image":"flags/lit.svg"
+}

@@ -1,0 +1,19 @@
+{
+    "node_key":"latvian",
+    "name":"ラトヴィア語",
+    "code":"lav",
+    "native_name":"latviešu valoda",
+    "ipa":"[ˈlatviɛʃu ˈvaluɔda]",
+    "summary":"ラトヴィア共和国の公用語で、ラテン文字を用いる。リトアニア語と非常に近い関係にあるが、近隣のバルト・フィン諸語（リヴォニア語など）やドイツ語との接触により、独自の音韻・形態論的変化を遂げた。アクセントが語頭に固定されたことや、自由な高低アクセントが3種類の固定声調（平調、下降調、断続調）へと再編成された点が大きな特徴である。",
+    "classification":"インド・ヨーロッパ語族 > バルト語派 > 東バルト語群",
+    "script":"ラテン文字",
+    "speakers":"約150万人",
+    "distribution":"ラトヴィアなど",
+    "parent":"east_baltic",
+    "node_type":"langugage",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%88%E3%83%93%E3%82%A2%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Latvian_language",
+    "flag_image":"flags/lav.svg"
+}

@@ -1,0 +1,15 @@
+{
+    "node_key":"baltoslavic",
+    "name":"バルト・スラヴ語派",
+    "summary":"バルト語派とスラヴ語派を包括する分岐。祖語の段階でアクセント体系や音韻変化、語彙などに多くの共通点を持ち、印欧祖語の古い特徴を比較的多く残しながら分岐したとされる。両語派の密接な親縁性については、並行進化した関係とする説と、共通のバルト・スラヴ祖語を想定する説で今なお議論が続いている。",
+    "classification":"インド・ヨーロッパ語族",
+    "script":"ラテン文字、キリル文字など",
+    "speakers":"約3億2000万人",
+    "distribution":"ヨーロッパ、旧ソ連諸国、北米など",
+    "parent":"indoeuropean",
+    "node_type":"branch",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%AB%E3%83%88%E3%83%BB%E3%82%B9%E3%83%A9%E3%83%B4%E8%AA%9E%E6%B4%BE",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Balto-Slavic_languages",
+}
