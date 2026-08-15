@@ -1,0 +1,19 @@
+
+{
+    "node_key":"sorbian",
+    "name":"ソルブ諸語",
+    "code":"wen",
+    "summary":"ドイツ東部のザクセン州およびブランデンブルク州に孤島のように残る、上ソルブ語と下ソルブ語の総称。ラテン文字を用いる。周囲の強大なドイツ語の波に長年晒されながらも、名詞から動詞に至るまで双数形（2人・2つのものを表すカテゴリー）を維持するグループである。",
+    "classification":"インド・ヨーロッパ語族 > スラヴ語派 > 西スラヴ語群",
+    "script":"ラテン文字",
+    "speakers":"約3万人",
+    "distribution":"ドイツ東部",
+    "parent":"west_slavic",
+    "node_type":"subgroup",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%AB%E3%83%96%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Sorbian_languages",
+    "flag_image":"flags/sb.svg"
+}
+

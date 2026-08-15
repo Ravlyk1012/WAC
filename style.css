@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Montserrat:wght@600;700&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Montserrat:wght@600;700&family=Noto+Sans:wght@400;700&family=Noto+Sans+Arabic:wght@400;700&family=Noto+Sans+JP:wght@400;500;700&display=swap');
 /* ==============================
    ページ全体
 ============================== */
@@ -54,7 +53,7 @@ header{
 header h1{
 
     font-family:
-    "Montserrat SemiBold",
+    "Montserrat",
     sans-serif;
 
     font-size:clamp(36px,5vw,64px);
@@ -89,7 +88,7 @@ header #subtitle{
 
 header #tagline{
 
-    font-size:16px;
+    font-size:clamp(12px, 3vw, 16px);
 
     font-style:italic;
 
@@ -129,19 +128,25 @@ header::after{
 
 }
 
+.root > details{
+    width:100%;
+    box-sizing:border-box;
+}
+
 /* ==============================
    枝を書く
 ============================== */
 
 .node{
 
-    white-space: nowrap;
-
     position: relative;
 
     padding: 5px 8px;
 
     cursor:pointer;
+
+    max-width:100%;
+    box-sizing:border-box;
 
 }
 
@@ -168,25 +173,43 @@ header::after{
   bottom: calc(100% - 0.75em);
 }
 
+.node-label,
+.info-mark{
+    cursor:pointer;
+}
+
+.node-label:hover,
+.info-mark:hover{
+    color:#3972b2;
+}
+
+
+@media (hover: hover) and (pointer: fine){
+
+
+    .breadcrumb-link:hover{
+        text-decoration:underline;
+    }
+
+    #close-button:hover{
+        color:#204080;
+    }
+}
 
 .children{
 
-margin-left:30px;
+margin-left:18px;
 
-padding-left:20px;
+padding-left:12px;
 
-}
-
-
-.node:hover{
-
-color:#3972b2;
-
-background:#eef5ff;
-
-border-radius:6px;
+width:fit-content;
+max-width:100%;
+box-sizing:border-box;
 
 }
+
+
+
 
 .tree-flag{
 
@@ -203,21 +226,17 @@ border-radius:6px;
     border:1px solid #ccc;
 
     border-radius:2px;
-
 }
 
-
-
-
-#layout {
-    display:block;
-}
 
 #tree {
     width:min(800px,100%);
     margin:auto;
 }
 
+/* ==============================
+   カードの表示
+============================== */
 
 .modal {
 
@@ -259,7 +278,33 @@ box-shadow:0 10px 30px rgba(0,0,0,.3);
 
 animation:popup .25s ease;
 
+position:relative;
+
 }
+
+#close-button{
+    position:absolute;
+
+    top:8px;
+    right:14px;
+
+    font-size:24px;
+    font-weight:400;
+
+    line-height:1;
+
+    color:#888;
+
+    cursor:pointer;
+
+    z-index:10;
+}
+
+#close-button:hover{
+    color:#204080;
+}
+
+
 
 @keyframes popup {
 
@@ -312,18 +357,6 @@ opacity:.25;
     max-height:90vh;
 
     overflow-y:auto;
-
-}
-
-.card-header{
-
-    background:#204080;
-
-    color:white;
-
-    padding: 18px;
-
-    border-radius:12px 12px 0 0;
 
 }
 
@@ -409,6 +442,10 @@ details{
     border-radius:8px;
 
     padding:10px 15px;
+
+    width:fit-content;
+    max-width:100%;
+    box-sizing:border-box;
 
 }
 
@@ -509,6 +546,8 @@ pre{
 
     color:#6f7b8c;
 
+    margin-top:18px;
+
     margin-bottom:12px;
 
     letter-spacing:.03em;
@@ -553,24 +592,56 @@ pre{
 
 @media(max-width:600px){
 
-body{
+    .root > details{
+        width:fit-content;
+        max-width:100%;
+    }
+    
+    details{
+        padding: 8px 2px;
+    }
 
-padding:15px;
+    body{
+
+        padding:15px;
+
+    }
+
+    .node{
+        padding:5px 2px;
+        white-space:normal;
+        overflow-wrap:anywhere;
+    }
+
+    .children{
+        margin-left:14px;
+        padding-left:10px;
+    }
+
+    .modal-card{
+        width:calc(100% - 20px);
+        padding:15px;
+        border-radius:10px;
+    }
+
+    th{
+        width:100px;
+    }
 
 }
 
+.node,
+summary,
+.node-label,
+.info-mark{
+    -webkit-tap-highlight-color:transparent;
 }
 
-.expand-mark{
-
-    font-size:0.8em;
-
-    color:#3972b2;
-
-    margin-left:8px;
-
-    font-family:monospace;
-
+@media (hover: none){
+    .node-label:hover,
+    .info-mark:hover{
+        color:inherit;
+    }
 }
 
 .info-mark{

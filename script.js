@@ -32,6 +32,16 @@ async()=>{
 
         const res =
             await fetch(`data/${file}`);
+        
+        console.log(file);
+
+    for (const node of nodes) {
+        if (node.parent && !nodes.some(n => n.node_key === node.parent)) {
+            console.error(
+              `親ノード不存在: ${node.name} -> ${node.parent}`
+            );
+        }
+    }
 
         const data =
             await res.json();
@@ -69,14 +79,15 @@ function buildNodeLabel(node){
 
     return `
 
-        ${
-            node.flag_image
-            ? `<img class="tree-flag" src="${node.flag_image}">`
-            : ""
-        }
+        <span class="node-label">
+            ${
+                node.flag_image
+                ? `<img class="tree-flag" src="${node.flag_image}">`
+                : ""
+            }
 
-        ${node.name}
-
+            ${node.name}
+        </span>
     `;
 
 }
@@ -458,8 +469,6 @@ function buildLanguageCard(node){
 
     return `
 
-    <div class="card">
-
         <div class="breadcrumb">
 
             ${breadcrumb}
@@ -574,9 +583,6 @@ function buildLanguageCard(node){
 
 
 
-    </div>
-
-
     `;
 
 }
@@ -601,7 +607,24 @@ function showCard(node){
 
     card.innerHTML =
         buildLanguageCard(node);
+    
+    const closeButton =
+        document.createElement("span");
 
+    closeButton.id = "close-button";
+    closeButton.textContent = "×";
+
+    closeButton.addEventListener(
+        "click",
+        (event)=>{
+            event.stopPropagation();
+            closeCard();
+        }
+    );
+
+    card.appendChild(closeButton);
+
+    
     modal.style.display="flex";
 
     document
@@ -642,6 +665,24 @@ document
 
 
     if(event.target.id==="modal"){
+
+        closeCard();
+
+    }
+
+});
+
+document
+.getElementById("modal-close")
+.addEventListener("click",()=>{
+
+    closeCard();
+
+});
+
+document.addEventListener("keydown",(event)=>{
+
+    if(event.key==="Escape"){
 
         closeCard();
 
