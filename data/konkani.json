@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"konkani",
+    "name":"コンカニ語",
+    "code":"kok",
+    "native_name":"कोंकणी/Konknni/ಕೊಂಕಣಿ/കൊങ്കണി/کونکنی",
+    "ipa":"[kõkɳi]",
+    "summary":"インド西海岸のゴア州の公用語であり、マラーティー語と非常に近い近縁関係にある南部語群の言語。歴史的な経緯（ポルトガル領ゴアの成立）から、表記文字が複雑に変遷しており、現在はデーヴァナーガリーが公的文字だが、ラテン文字（ローマ字）や、南のカンナダ文字、マラヤーラム文字でも日常的に表記される。マラーティー語以上に名詞の格変化が崩壊しつつあり、ポルトガル語からの大量の借用語を受けている。",
+    "classification":"インド・ヨーロッパ語族 > インド・イラン語派 > インド・アーリア語派 > 南部語群",
+    "script":"デーヴァナーガリー、ラテン文字、カンナダ文字、マラヤーラム文字、アラビア・ペルシャ文字",
+    "speakers":"約600万人",
+    "distribution":"インド南部・西部ゴア州ほか",
+    "parent":"s_indoaryan",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%82%AB%E3%83%8B%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Konkani_language",
+    "flag_image":"flags/kok.svg"
+}

@@ -1,0 +1,15 @@
+﻿{
+    "node_key":"occitanoromance",
+    "name":"オクシタニア・ロマンス諸語",
+    "summary":"南フランスからイベリア半島北東部にかけて発展した系統であり、オック語やカタルーニャ語を含む。ガロ・ロマンス諸語とイベロ・ロマンス諸語の中間的な特徴を示し、北フランス諸語ほど急激な音韻変化を受けず、ラテン語以来の特徴を比較的多く保持している。中世には独自の文学・文化圏を形成した。",
+    "classification":"インド・ヨーロッパ語族 > イタリック語派 > ラテン・ファリスク語群 > ロマンス諸語 > イタロ・西ロマンス諸語",
+    "script":"ラテン文字",
+    "speakers":"約1000万人",
+    "distribution":"フランス、スペイン、イタリアなど",
+    "parent":"italowestern",
+    "node_type":"subgroup",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%BF%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%AB%E3%82%BF%E3%83%AD%E3%83%8B%E3%82%A2%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Occitano-Romance_languages"
+}

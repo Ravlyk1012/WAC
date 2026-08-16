@@ -1,0 +1,19 @@
+{
+    "node_key":"afrikaans",
+    "name":"アフリカーンス語",
+    "code":"afr",
+    "native_name":"Afrikaans",
+    "ipa":"[afriˈkɑːns]",
+    "summary":"主に南アフリカ共和国とナミビアで話される西ゲルマン語群の言語であり、17世紀以降に南部アフリカへ移住したオランダ語話者の言語から発展した。文法は祖語であるオランダ語に比べて大きく簡略化され、人称による動詞活用や格変化の多くが失われている。現地諸言語や移民諸言語との接触を経ながら独自の発達を遂げた。",
+    "classification":"インド・ヨーロッパ語族 > ゲルマン語派 > 西ゲルマン語群",
+    "script":"ラテン文字",
+    "speakers":"約700万人",
+    "distribution":"南アフリカ、ナミビアなど",
+    "parent":"west_germanic",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E3%83%BC%E3%83%B3%E3%82%B9%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Afrikaans",
+    "flag_image":"flags/afr.svg"
+}

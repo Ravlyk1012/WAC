@@ -1,0 +1,15 @@
+﻿{
+    "node_key":"insular_celtic",
+    "name":"島嶼ケルト語群",
+    "summary":"ブリテン諸島を中心に発展し、現在話されるすべてのケルト諸語を含む語群である。大陸ケルト語群とは異なり、VSO（動詞-主語-目的語）を基本とする語順や、前置詞が人称代名詞と融合して活用する共役前置詞、さらに文法環境に応じて語頭子音が変化する語頭子音変異（initial mutations）など、極めて特徴的な文法体系を発達させた。現代ではブリソン諸語とゲール諸語の二系統に分かれている。",
+    "classification":"インド・ヨーロッパ語族 > ケルト語派",
+    "script":"オガム文字、ラテン文字",
+    "speakers":"約350万人",
+    "distribution":"ブリテン島、アイルランド、マン島、ブルターニュ地方など",
+    "parent":"celtic",
+    "node_type":"group",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E5%B3%B6%E5%B6%BC%E3%82%B1%E3%83%AB%E3%83%88%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Insular_Celtic_languages"
+}

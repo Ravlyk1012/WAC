@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"pali",
+    "name":"†パーリ語",
+    "code":"pli",
+    "native_name":"𑀧𑀸𑀮𑀺/𐨤𐨫𐨁/पाळि…",
+    "ipa":"[paːli]",
+    "summary":"サンスクリットに隣接する中期インド・アーリア語（プラークリット）の代表格であり、上座部仏教（南伝仏教）の聖典言語として知られる文語として現代まで用いられている死語。サンスクリットに比べて音韻論的な簡略化（複子音の同化や語末子音の脱落など）が進行しており、形態論でも双数形の消失や格変化の統合が見られる。独自の文字を持たず、伝播した先（スリランカ、ミャンマー、タイなど）の現地の文字（シンハラ文字やタイ文字など）で書き写されてきた歴史を持つ。",
+    "classification":"インド・ヨーロッパ語族 > インド・イラン語派 > インド・アーリア語派",
+    "script":"ブラーフミー文字、デーヴァナーガリー、カローシュティー文字、その他ブラーフミー系文字など",
+    "speakers":"死語（文語）",
+    "distribution":"古代インドのマガダ国、東南・東アジアの仏教圏など",
+    "parent":"indoaryan",
+    "node_type":"language",
+    "status":"historical",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%BC%E3%83%AA%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Pali",
+    "flag_image":"flags/pli.svg"
+}

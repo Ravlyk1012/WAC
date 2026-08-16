@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"bengali",
+    "name":"ベンガル語",
+    "code":"ben",
+    "native_name":"বাংলা",
+    "ipa":"[ˈbaŋlaˑ]",
+    "summary":"バングラデシュの国語であり、インドの西ベンガル州の公用語でもある世界屈指の大言語。独自のベンガル文字（アッサム文字とほぼ共通）を用い、タゴールに代表される極めて豊かな文学伝統を持つ。東部語群の典型として名詞の性がなく、主語の性別による動詞の形への影響は皆無だが、動詞の活用が主語の敬意の程度に応じて複数の活用形を持つ。",
+    "classification":"インド・ヨーロッパ語族 > インド・イラン語派 > インド・アーリア語派 > 東部語群",
+    "script":"ベンガル・アッサム文字",
+    "speakers":"約2億5000万人",
+    "distribution":"ベンガル地域、バングラデシュほか",
+    "parent":"e_indoaryan",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%B3%E3%82%AC%E3%83%AB%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Bengali_language",
+    "flag_image":"flags/ben.svg"
+}

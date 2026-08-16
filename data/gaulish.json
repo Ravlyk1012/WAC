@@ -1,0 +1,17 @@
+﻿{
+    "node_key":"gaulish",
+    "name":"†ガリア語",
+    "code":"xtg",
+    "summary":"古代ガリア（現在のフランスを中心とする地域）で話された大陸ケルト語群最大の言語であり、ギリシャ文字・ラテン文字などで刻まれた碑文によって知られる。典型的なP-ケルト語であり、豊かな格変化を備えた古典的な印欧語の構造を持っていた。ローマ帝国の支配下で次第にラテン語へ置き換えられ、5〜6世紀頃までに姿を消したと考えられている。",
+    "classification":"インド・ヨーロッパ語族 > ケルト語派 > 大陸ケルト語群",
+    "script":"ギリシャ文字、ラテン文字",
+    "speakers":"死語",
+    "distribution":"ガリア地域など",
+    "parent":"continental_celtic",
+    "node_type":"language",
+    "status":"historical",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%AA%E3%82%A2%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Gaulish",
+    "flag_image":"flags/xtg.svg"
+}

@@ -1,0 +1,16 @@
+{
+    "node_key":"north_germanic",
+    "name":"北ゲルマン語群",
+    "code":"gmq",
+    "summary":"スカンディナヴィア半島および北大西洋の島々に分布する語群であり、スウェーデン語、デンマーク語、ノルウェー語、アイスランド語、フェロー語などを含む。共通祖語である古ノルド語から発展し、語頭の半母音の消失など共通する音韻変化を経験した。また、名詞の後ろに定冠詞を付加する後置定冠詞の発達は、この語群を特徴づける代表的な文法的特徴である。",
+    "classification":"インド・ヨーロッパ語族 > ゲルマン語派",
+    "script":"ラテン文字など",
+    "speakers":"約2000万人",
+    "distribution":"北欧など",
+    "parent":"germanic",
+    "node_type":"group",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E5%8C%97%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%B3%E8%AA%9E%E7%BE%A4",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/North_Germanic_languages"
+}

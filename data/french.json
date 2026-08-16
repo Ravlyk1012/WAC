@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"french",
+    "name":"フランス語",
+    "code":"fra",
+    "native_name":"français",
+    "ipa":"[fʁɑ̃sɛ]",
+    "summary":"フランスをはじめ、ベルギー、スイス、カナダ、アフリカなどで広く話されるガロ・ロマンス諸語の主要言語である。ロマンス諸語の中でも音韻変化が比較的大きく、鼻母音の発達や語末母音の脱落などが特徴として知られる。名詞の格変化は失われ、語順や前置詞が文法関係を示す重要な役割を担っている。",
+    "classification":"インド・ヨーロッパ語族 > イタリック語派 > ラテン・ファリスク語群 > ロマンス諸語 > イタロ・西ロマンス諸語 > ガロ・ロマンス諸語",
+    "script":"ラテン文字",
+    "speakers":"約7400万人（母語話者）",
+    "distribution":"フランス、ベルギー、スイス、アフリカ、カナダなど",
+    "parent":"old_french",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/French_language",
+    "flag_image":"flags/fra.svg"
+}

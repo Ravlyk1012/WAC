@@ -1,0 +1,14 @@
+﻿{
+    "node_key":"e_indoaryan",
+    "name":"東部語群",
+    "summary":"インド東部（ベンガル地方、アッサム地方、オリッサ州）に広がるグループで、古代のマガダ・プラークリット（東部俗語）の系譜を引く。中部語群（ヒンディー語など）とは明確な断絶があり、音韻論的には特にベンガル語などではサンスクリットの母音 /a/ が /ɔ/ や /o/ のように丸みを帯びて発音される傾向が強い。文法的には、多くの言語で名詞の文法性（男性・女性の区別）が失われ、名詞の後ろにつく分類詞（助数詞）が発達したという共通特徴を持つ。",
+    "classification":"インド・ヨーロッパ語族 > インド・イラン語派 > インド・アーリア語派",
+    "script":"ベンガル・アッサム文字、オリヤー文字、デーヴァナーガリーなど",
+    "speakers":"約4億人",
+    "distribution":"南アジア",
+    "parent":"indoaryan",
+    "node_type":"group",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Eastern_Indo-Aryan_languages"
+}

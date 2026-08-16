@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"sardinian",
+    "name":"サルデーニャ語",
+    "code":"srd",
+    "native_name":"sardu",
+    "ipa":"[ˈsaɾdu]",
+    "summary":"サルデーニャ島で話される南ロマンス諸語の代表的な言語であり、ロマンス諸語の中でも特に古い特徴を保持していることで知られる。ラテン語の c, g が前舌母音の前でも口蓋化せず、centum が kentu となるなど、他のロマンス諸語では失われた古い発音を現在まで残している。その保守性から、比較言語学上きわめて重要な言語とされる。",
+    "classification":"インド・ヨーロッパ語族 > イタリック語派 > ラテン・ファリスク語群 > ロマンス諸語 > 南ロマンス諸語",
+    "script":"ラテン文字",
+    "speakers":"約100万人",
+    "distribution":"サルデーニャ島など",
+    "parent":"southern_romance",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%AB%E3%83%87%E3%83%BC%E3%83%8B%E3%83%A3%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Sardinian_language",
+    "flag_image":"flags/srd.svg"
+}

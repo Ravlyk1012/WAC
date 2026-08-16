@@ -1,0 +1,15 @@
+﻿{
+    "node_key":"rhaetoromance",
+    "name":"レト・ロマンス諸語",
+    "summary":"アルプス山脈周辺で話されるロマンス諸語の小規模な系統であり、ロマンシュ語やフリウリ語などを含む。山岳地帯での地理的孤立により独自の特徴を発達させる一方、ガロ・ロマンス諸語や北イタリア諸語との共通点も多く保持している。現在はいずれも少数言語として存続している。",
+    "classification":"インド・ヨーロッパ語族 > イタリック語派 > ラテン・ファリスク語群 > ロマンス諸語 > イタロ・西ロマンス諸語",
+    "script":"ラテン文字",
+    "speakers":"約70万人",
+    "distribution":"イタリア、スイスなど",
+    "parent":"italowestern",
+    "node_type":"subgroup",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%88%E3%83%BB%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B9%E8%AA%9E%E7%BE%A4",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Rhaeto-Romance_languages"
+}

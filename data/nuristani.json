@@ -1,0 +1,15 @@
+﻿{
+    "node_key":"nuristani",
+    "name":"ヌーリスターン語群",
+    "summary":"アフガニスタン北東部のクナール州周辺（旧カフィールスターン、現ヌーリスターン地方）の険しい山岳地帯に隠れるように分布する極小の言語群。インド・アーリア語派とイラン語派とは別系統の第3の主要分岐として位置づけられる系統である。文字を持たず、インド・イラン祖語の古い特徴を一部保持していることから比較言語学上、極めて重視されている。",
+    "classification":"インド・ヨーロッパ語族 > インド・イラン語派 > インド・アーリア語派",
+    "script":"無文字、アラビア・ペルシャ文字など",
+    "speakers":"約20万人",
+    "distribution":"アフガニスタン、パキスタン",
+    "parent":"indoiranian",
+    "node_type":"group",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%8C%E3%83%BC%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%9E%E7%BE%A4",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Nuristani_languages"
+}

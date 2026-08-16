@@ -1,0 +1,17 @@
+{
+    "node_key":"germanic",
+    "name":"ゲルマン語派",
+    "code":"gem",
+    "summary":"ヨーロッパ中北部を原郷とし、現在は英語をはじめ世界各地で広く話される印欧語族の主要語派。共通祖語であるゲルマン祖語の段階で、印欧祖語の子音体系を大きく変化させたグリムの法則やヴェルネルの法則など、特徴的な音韻変化を経験した。文法面では、名詞の格変化の簡略化が進む一方、歯音接辞によって過去形を作る弱変化動詞を発達させるなど、他の印欧諸語とは異なる独自の発達を遂げた。",
+    "classification":"インド・ヨーロッパ語族",
+    "script":"ラテン文字など",
+    "speakers":"約5億1000万人以上（母語話者）",
+    "distribution":"世界各地（中欧、北欧、西欧、東アフリカ、南部アフリカ、北米、中米、南アジア、東南アジア、オセアニア）",
+    "parent":"indoeuropean",
+    "display_order":8,
+    "node_type":"branch",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%B3%E8%AA%9E%E6%B4%BE",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Germanic_languages"
+}

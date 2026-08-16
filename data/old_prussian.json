@@ -13,5 +13,6 @@
     "status":"historical",
     "controversial":false,
     "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AD%E3%82%B7%E3%82%A2%E8%AA%9E",
-    "wikipedia_en":"https://en.wikipedia.org/wiki/Old_Prussian_language"
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Old_Prussian_language",
+    "flag_image":"flags/prg.svg"
 }

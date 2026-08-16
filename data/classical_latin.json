@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"classical_latin",
+    "name":"古典ラテン語",
+    "code":"lat",
+    "native_name":"LINGVA·LATINA",
+    "ipa":"[ˈlɪŋɡʷa ɫaˈtiːna]",
+    "summary":"紀元前1世紀頃から古代ローマの文学・行政・学術で規範語として用いられたラテン語の標準的な形態である。ラテン文字を用い、6つの格、3つの文法性、複雑な動詞活用を備えた典型的な屈折語であった。後世のロマンス諸語の共通祖先であるとともに、中世以降もヨーロッパの学術・宗教・外交における共通語として長く大きな影響を与えた。",
+    "classification":"インド・ヨーロッパ語族 > イタリック語派 > ラテン・ファリスク語群",
+    "script":"ラテン文字",
+    "speakers":"死語（文語）",
+    "distribution":"ローマ帝国版図",
+    "parent":"latinofaliscan",
+    "node_type":"language",
+    "status":"historical",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E5%8F%A4%E5%85%B8%E3%83%A9%E3%83%86%E3%83%B3%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Classical_Latin",
+    "flag_image":"flags/lat.svg"
+}

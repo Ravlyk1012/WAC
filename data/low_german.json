@@ -1,0 +1,19 @@
+{
+    "node_key":"low_german",
+    "name":"低地ドイツ語",
+    "code":"nds",
+    "native_name":"Plattdüütsch; Neddersassisch etc.",
+    "ipa":"[pɫɑʈdyːt͡ʃ]; [ˌneːdɐˈzasɪʃ]",
+    "summary":"ドイツ北部およびオランダ東部で伝統的に話される西ゲルマン語群の言語・方言連続体。高地ドイツ語子音推移を経験していないため、音韻面では標準ドイツ語よりもオランダ語や英語との共通点が多い。中世にはハンザ同盟の交易圏で広く用いられ、北欧諸語にも大きな語彙的影響を与えた。",
+    "classification":"インド・ヨーロッパ語族 > ゲルマン語派 > 西ゲルマン語群",
+    "script":"ラテン文字",
+    "speakers":"約400～700万人",
+    "distribution":"ドイツ北部・西部、オランダ東部など",
+    "parent":"west_germanic",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E4%BD%8E%E5%9C%B0%E3%83%89%E3%82%A4%E3%83%84%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Low_German",
+    "flag_image":"flags/nds.svg"
+}

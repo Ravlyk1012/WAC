@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"old_persian",
+    "name":"†古代ペルシャ語",
+    "code":"peo",
+    "native_name":"𐎠𐎼𐎹",
+    "ipa":"/a ri ya/",
+    "summary":"紀元前6世紀〜4世紀のアケメネス朝（ペルシャ帝国）の碑文に遺る、南西イラン諸語の最古の死語。ダレイオス1世のベヒストゥン碑文などに代表され、楔形文字をもとに作られた古代ペルシャ楔形文字（楔形文字をもとに作られた独自の文字）で記録されている。アヴェスター語に比べるとやや簡略化が始まっているものの、依然として名詞の6つの格変化、複雑な動詞活用を保持していた古代の屈折語である。",
+    "classification":"インド・ヨーロッパ語族 > インド・イラン語派 > イラン語派 > 西イラン語群 > 南西イラン諸語",
+    "script":"古代ペルシャ楔形文字",
+    "speakers":"死語",
+    "distribution":"ペルシャ帝国周辺地域",
+    "parent":"s_western_iranian",
+    "node_type":"language",
+    "status":"historical",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E5%8F%A4%E4%BB%A3%E3%83%9A%E3%83%AB%E3%82%B7%E3%82%A2%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Old_Persian",
+    "flag_image":"flags/peo.svg"
+}

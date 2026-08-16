@@ -1,0 +1,15 @@
+﻿{
+    "node_key":"late_latin",
+    "name":"†後期ラテン語",
+    "summary":"ローマ帝国後期から中世初期（3〜7世紀頃）にかけて用いられたラテン語の段階であり、古典ラテン語から中世ラテン語への移行期にあたる。古典語の規範を維持しつつも、当時の口語である俗ラテン語の影響を受け、文法や語彙には徐々に変化が現れた。行政・宗教・学術の共通語として広く用いられ、聖書のラテン語訳『ウルガータ』などの重要な文献がこの時代に成立した。",
+    "classification":"インド・ヨーロッパ語族 > イタリック語派 > ラテン・ファリスク語群",
+    "script":"ラテン文字",
+    "speakers":"死語（文語）",
+    "distribution":"西ローマ帝国周辺",
+    "parent":"classical_latin",
+    "node_type":"language",
+    "status":"historical",
+    "controversial":false,
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Late_Latin",
+    "flag_image":"flags/latelat.svg"
+}

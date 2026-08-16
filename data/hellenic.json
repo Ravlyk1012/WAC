@@ -1,0 +1,17 @@
+﻿{
+    "node_key":"hellenic",
+    "name":"ヘレニック語派",
+    "code":"grk",
+    "summary":"ギリシャ半島およびエーゲ海周辺を中心に展開し、歴史的に「ギリシャ語」の系譜のみで構成される孤立した語派。紀元前2千年紀のミケーネ・ギリシャ語（線文字B）から現代にいたるまで、約3500年以上にわたる連続した膨大な文献記録を持つ。印欧祖語の*/k/、*/g/を軟口蓋音のまま保持したケントゥム語グループに属し、豊富な名詞格と複雑な動詞アスペクト体系の保持が特徴である。",
+    "classification":"インド・ヨーロッパ語族",
+    "script":"線文字B、ギリシャ文字",
+    "speakers":"約1300万人",
+    "distribution":"ギリシャ、キプロス、バルカン半島周辺、小アジア、黒海沿岸域など",
+    "parent":"indoeuropean",
+    "display_order":4,
+    "node_type":"branch",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%AC%E3%83%8B%E3%83%83%E3%82%AF%E8%AA%9E%E6%B4%BE",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Hellenic_languages"
+}

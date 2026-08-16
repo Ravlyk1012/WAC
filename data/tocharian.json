@@ -1,0 +1,16 @@
+﻿{
+    "node_key":"tocharian",
+    "name":"トカラ語派（絶滅）",
+    "summary":"タリム盆地（現在の中国・新疆ウイグル自治区）のオアシス都市で6世紀〜9世紀頃に話されていた、記録が発見された印欧語の中では最も東方に位置する絶滅語派。地理的にはインド・イラン語派など、*/k/、*/g/などが特定の条件で/s/、/z/などの歯擦音に変化した言語たち（サテム語という）に囲まれていたが、トカラ語派は軟口蓋音を保持した（ケントゥム語という）という特徴を持つ。文字はインド系のブラーフミー文字を基にした独自の変種が用いられ、主に仏典の翻訳や商業文書が残されている。",
+    "classification":"インド・ヨーロッパ語族",
+    "script":"トカラ文字",
+    "speakers":"死語",
+    "distribution":"タリム盆地",
+    "parent":"indoeuropean",
+    "display_order":2,
+    "node_type":"branch",
+    "status":"historical",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%AB%E3%83%A9%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Tocharian_languages"
+}

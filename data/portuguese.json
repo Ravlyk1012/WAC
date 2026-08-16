@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"portuguese",
+    "name":"ポルトガル語",
+    "code":"por",
+    "native_name":"português",
+    "ipa":"[puɾtuˈɡeʃ], [poʁtuˈɡe(j)s]",
+    "summary":"ポルトガル共和国およびブラジル、アンゴラ、モザンビークなどで公用語として話されるイベロ・ロマンス諸語の主要言語。ガリシア語と共通の祖先から発展し、母音間の /l/ や /n/ の脱落など独自の音韻変化を経験し、特に/n/の脱落に伴って鼻母音を発達させた。その柔らかく流れるような音調は、スペイン語とは大きく異なる特徴として知られる。",
+    "classification":"インド・ヨーロッパ語族 > イタリック語派 > ラテン・ファリスク語群 > ロマンス諸語 > イタロ・西ロマンス諸語 > イベロ・ロマンス諸語",
+    "script":"ラテン文字",
+    "speakers":"約2億5000万人",
+    "distribution":"ポルトガル、ブラジルなど",
+    "parent":"iberoromance",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AB%E3%83%88%E3%82%AC%E3%83%AB%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Portuguese_language",
+    "flag_image":"flags/por.svg"
+}

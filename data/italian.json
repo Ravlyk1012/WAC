@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"italian",
+    "name":"イタリア語",
+    "code":"ita",
+    "native_name":"italiano",
+    "ipa":"[itaˈljaːno]",
+    "summary":"イタリア共和国の公用語であり、ラテン文字を用いる。中世トスカーナ地方、特にフィレンツェの文学言語を基盤として標準化され、ダンテらの作品を通じて広く普及した。ロマンス諸語の中ではラテン語との連続性が比較的高く、母音体系などに古い特徴を多く残しているほか、豊かな動詞活用により主語代名詞を省略できる言語である。",
+    "classification":"インド・ヨーロッパ語族 > イタリック語派 > ラテン・ファリスク語群 > ロマンス諸語 > イタロ・西ロマンス諸語 > イタロ・ダルマチア諸語",
+    "script":"ラテン文字",
+    "speakers":"約6500万人",
+    "distribution":"イタリア、ヴァチカンスイス、スロヴェニア、クロアチアなど",
+    "parent":"italodalmatian",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Italian_language",
+    "flag_image":"flags/ita.svg"
+}

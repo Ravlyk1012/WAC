@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"punjabi",
+    "name":"パンジャーブ語",
+    "code":"pan",
+    "native_name":"ਪੰਜਾਬੀ/پنجابی",
+    "ipa":"[pəɲˈd͡ʒaːbːi]",
+    "summary":"インドのパンジャーブ州およびパキスタンのパンジャーブ州にまたがる広大な地域で話される北西語群の主要言語。インド側ではシク教徒を中心に独自のグルムキー文字が使われる一方、パキスタン側ではイスラム教徒を中心にアラビア文字（シャームキー文字）が使われる。インド・アーリア語派の中では異例な声調言語であり、歴史的な帯気有声音が声調へと転化した独自の音韻論を持つ。",
+    "classification":"インド・ヨーロッパ語族 > インド・イラン語派 > インド・アーリア語派 > 北西語群",
+    "script":"シャームキー文字、グルムキー文字",
+    "speakers":"約1億5000万人",
+    "distribution":"インド・パキスタンのパンジャーブ地域",
+    "parent":"n_w_indoaryan",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%96%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Punjabi_language",
+    "flag_image":"flags/pan.svg"
+}

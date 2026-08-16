@@ -1,0 +1,19 @@
+{
+    "node_key":"middle_english",
+    "name":"†中英語",
+    "code":"enm",
+    "native_name":"Englisch, English, Inglis",
+    "ipa":"[ˈɛnɡliʃ], [ˈinɡliʃ]",
+    "summary":"11世紀のノルマン征服以降から15世紀末頃までの英語の歴史的段階。フランス語から大量の語彙を取り入れる一方、古英語の格変化や文法性は大きく簡略化され、現代英語へつながる分析的な文法構造が形成された。チョーサーの『カンタベリー物語』は、この時代を代表する文学作品として知られる。",
+    "classification":"インド・ヨーロッパ語族 > ゲルマン語派 > 西ゲルマン語群",
+    "script":"ラテン文字",
+    "speakers":"死語",
+    "distribution":"イングランド、スコットランド南部・東部、ウェールズ東部など",
+    "parent":"old_english",
+    "node_type":"language",
+    "status":"historical",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8B%B1%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Middle_English",
+    "flag_image":"flags/enm.svg"
+}

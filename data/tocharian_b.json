@@ -1,0 +1,18 @@
+﻿{
+    "node_key":"tocharian_b",
+    "name":"†トカラ語B（西トカラ語）",
+    "code":"txb",
+    "native_name":"kuśiññe",
+    "summary":"タリム盆地西部のクチャ周辺を中心とする地域から文献が発見された言語（クチャ語とも呼ばれる）。仏典だけでなく、通行手形、医療処方箋、商業の帳簿など日常的な世俗文書が多数現存しており、当時は生きた話し言葉として機能していたと推測される。トカラ語Aに比べて語末の母音を保持するなど音韻論的に保守的な側面があり、トカラ語派の祖語の姿をより色濃く残しているとされる。",
+    "classification":"インド・ヨーロッパ語族 > トカラ語派",
+    "script":"トカラ文字",
+    "speakers":"死語",
+    "distribution":"タリム盆地",
+    "parent":"tocharian",
+    "node_type":"language",
+    "status":"historical",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%AB%E3%83%A9%E8%AA%9EB",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Tocharian_B",
+    "flag_image":"flags/txb.svg"
+}

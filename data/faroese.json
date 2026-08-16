@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"faroese",
+    "name":"フェロー語",
+    "code":"fao",
+    "native_name":"føroyskt",
+    "ipa":"[ˈføːɹɪst]",
+    "summary":"デンマーク領フェロー諸島で話される西ノルド諸語であり、ラテン文字による独自の正書法を用いる。古ノルド語以来の4格や3つの文法性などの屈折体系を比較的よく保持しており、音韻面では独自の発達を遂げた。話者数は少ないものの、教育・行政を含む地域社会の主要言語として広く用いられている。",
+    "classification":"インド・ヨーロッパ語族 > ゲルマン語派 > 北ゲルマン語群 > 西ノルド諸語",
+    "script":"ラテン文字",
+    "speakers":"約7万人",
+    "distribution":"フェロー諸島など",
+    "parent":"west_scandinavian",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A7%E3%83%AD%E3%83%BC%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Faroese_language",
+    "flag_image":"flags/fao.svg"
+}

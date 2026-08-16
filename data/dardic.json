@@ -1,0 +1,15 @@
+﻿{
+    "node_key":"dardic",
+    "name":"ダルド語群",
+    "summary":"インド亜大陸北西端の山岳地帯（パキスタン北部、アフガニスタン東部、インドのカシミール地方など）に分布する諸言語の総称。地理的な孤立性から、他の近代インド・アーリア語が失った古い音韻的特徴を比較的多く保持している。かつては独立した語派として扱われることもあったが、現在はインド・アーリア語派の最も北西に位置する特殊な一群として位置づけられている。",
+    "classification":"インド・ヨーロッパ語族 > インド・イラン語派 > インド・アーリア語派",
+    "script":"アラビア・ペルシャ文字、デーヴァナーガリーなど",
+    "speakers":"約700万人",
+    "distribution":"パキスタン北部、インド北西部、アフガニスタン北東部",
+    "parent":"indoaryan",
+    "node_type":"group",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%AB%E3%83%89%E8%AA%9E%E7%BE%A4",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Dardic_languages"
+}

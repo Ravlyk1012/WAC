@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"koine",
+    "name":"コイネー",
+    "code":"ecg",
+    "native_name":"ἡ κοινὴ διάλεκτος",
+    "ipa":"[ˈi cyˈni ðiˈa.lek.tos]",
+    "summary":"アレクサンドロス大王の東方遠征（紀元前4世紀）以降、ヘレニズム世界およびローマ帝国東部で広範囲に使われた共通文語および口語。古典期の複雑な地域方言（アッティカ、イオニア、ドリスなど）が統合・簡略化され、名詞の双数形の消失や、ピッチアクセント（高低アクセント）から強勢アクセントへの移行が始まった。新約聖書の執筆言語であり、キリスト教の拡大とともに地中海世界の共通語・知識人言語として機能した。",
+    "classification":"インド・ヨーロッパ語族 > ヘレニック語派",
+    "script":"ギリシャ文字",
+    "speakers":"死語（文語）",
+    "distribution":"ギリシャ、マケドニア、エジプト、シリアなどヘレニズム世界、ローマ帝国、東ローマ帝国（ビザンツ帝国）",
+    "parent":"ancient_greek",
+    "node_type":"language",
+    "status":"historical",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%A4%E3%83%8D%E3%83%BC",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Koine_Greek#Phonology",
+    "flag_image":"flags/ecg.svg"
+}

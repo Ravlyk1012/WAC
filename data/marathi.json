@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"marathi",
+    "name":"マラーティー語",
+    "code":"mar",
+    "native_name":"मराठी",
+    "ipa":"[məˈɾaːʈʰiː]",
+    "summary":"インド西中部、マハーラーシュトラ州（中心都市ムンバイなど）の公用語であり、デーヴァナーガリーを使用する。南部語群の筆頭であり、西部語群と同様にサンスクリット由来の男性・女性・中性の3つの文法性を保持している。また、ドラヴィダ諸語との接触から、能格構造を発達させている。",
+    "classification":"インド・ヨーロッパ語族 > インド・イラン語派 > インド・アーリア語派 > 南部語群",
+    "script":"デーヴァナーガリー",
+    "speakers":"約8000万人",
+    "distribution":"インド南部・西部マハーラーシュトラ州ほか",
+    "parent":"s_indoaryan",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%A9%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Marathi_language",
+    "flag_image":"flags/mar.svg"
+}

@@ -1,0 +1,15 @@
+﻿{
+    "node_key":"galloromance",
+    "name":"ガロ・ロマンス諸語",
+    "summary":"フランスおよび周辺地域で発展したロマンス諸語の系統であり、フランス語やワロン語などを含む。ケルト語やゲルマン諸語との接触の影響を受け、語末母音の脱落や子音体系の変化など、ロマンス諸語の中でも比較的大きな音韻変化を経験した。音韻・文法の両面で革新的な特徴を持つことで知られる。",
+    "classification":"インド・ヨーロッパ語族 > イタリック語派 > ラテン・ファリスク語群 > ロマンス諸語 > イタロ・西ロマンス諸語",
+    "script":"ラテン文字",
+    "speakers":"約9500万人",
+    "distribution":"フランス周辺、ベルギー、スイス、カナダ、アフリカなど",
+    "parent":"italowestern",
+    "node_type":"subgroup",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%AD%E3%83%BB%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B9%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Gallo-Romance_languages"
+}

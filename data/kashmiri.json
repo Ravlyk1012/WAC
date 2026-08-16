@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"kashmiri",
+    "name":"カシミール語",
+    "code":"kas",
+    "native_name":"کٲشُر/कॉशुर/𑆑𑆳𑆯𑆶𑆫𑇀",
+    "ipa":"[kəːʃur]",
+    "summary":"インド・パキスタン間の係争地であるカシミール地方で話される、ダルド語群の中で唯一の広範な文学伝統を持つ主要言語。歴史的にアラビア文字（ウルドゥー文字の拡張変種）が主に用いられるが、伝統的なシャラダ文字やラテン文字の試みもある。語順が基本のSOVではなく、ゲルマン語派に類似する動詞第二位（V2）に近い語順制約を持つほか、極めて複雑な代名接辞の体系を発達させている。",
+    "classification":"インド・ヨーロッパ語族 > インド・イラン語派 > インド・アーリア語派 > ダルド語群",
+    "script":"アラビア・ペルシャ文字、デーヴァナーガリーなど",
+    "speakers":"約700万人",
+    "distribution":"インド・パキスタンのカシミール地方",
+    "parent":"dardic",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%B7%E3%83%9F%E3%83%BC%E3%83%AB%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Kashmiri_language",
+    "flag_image":"flags/kas.svg"
+}

@@ -1,0 +1,18 @@
+﻿{
+    "node_key":"vedic_sanskrit",
+    "name":"†ヴェーダ語",
+    "code":"vsn",
+    "native_name":"daivī vāc, bhāṣā",
+    "summary":"紀元前2千年紀後半ごろインド北西部で成立した、インド・アーリア語派の最古の死語。バラモン教の聖典『リグ・ヴェーダ』などに遺されており、音韻・形態論ともにイラン語派のアヴェスター語と驚異的な親縁性を持つ。サンスクリットに比べて、印欧祖語由来の複雑な動詞の法（接続法など）や自由な高低アクセント体系をそのまま保持しており、比較言語学的に極めて原始的な姿を伝えている。",
+    "classification":"インド・ヨーロッパ語族 > インド・イラン語派 > インド・アーリア語派",
+    "script":"無文字、デーヴァナーガリーその他ブラーフミー系文字など",
+    "speakers":"死語（文語）",
+    "distribution":"インド亜大陸",
+    "parent":"indoaryan",
+    "node_type":"language",
+    "status":"historical",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A7%E3%83%BC%E3%83%80%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Vedic_Sanskrit#Literature",
+    "flag_image":"flags/vsn.svg"
+}

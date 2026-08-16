@@ -1,0 +1,15 @@
+﻿{
+    "node_key":"italowestern",
+    "name":"イタロ・西ロマンス諸語",
+    "summary":"ロマンス諸語の主要な系統の一つであり、イタリア半島からフランス、イベリア半島にかけて分布する。名詞複数形にラテン語対格由来の -s を用いる傾向を共有し、多くの言語で母音間の無声破裂音が有声化するなど、共通する音韻変化が見られる。イタリア語・フランス語・スペイン語・ポルトガル語などがこの系統に属する。",
+    "classification":"インド・ヨーロッパ語族 > イタリック語派 > ラテン・ファリスク語群 > ロマンス諸語",
+    "script":"ラテン文字",
+    "speakers":"約8億7000万人",
+    "distribution":"ヨーロッパ中・西・南部、中南米、アフリカなど",
+    "parent":"romance",
+    "node_type":"subgroup",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AD%E3%83%BB%E8%A5%BF%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B9%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Italo-Western_languages"
+}

@@ -1,0 +1,17 @@
+﻿{
+    "node_key":"italic",
+    "name":"イタリック語派",
+    "code":"itc",
+    "summary":"古代イタリア半島を中心に分布した印欧語族の主要な語派であり、ラテン語やオスク語、ウンブリア語などを含む。古代には複数の系統が存在したが、ローマの拡大に伴ってラテン語が優勢となり、他のイタリック諸語の多くは消滅した。現代のロマンス諸語はラテン語から発展したものであり、歴史的にはオスク・ウンブリア語群とラテン・ファリスク語群の2系統に大別される。",
+    "classification":"インド・ヨーロッパ語族",
+    "script":"古イタリア文字（エトルリア文字系）、ラテン文字など",
+    "speakers":"約9億人",
+    "distribution":"ヨーロッパ中・西・南部、中南米、アフリカなど",
+    "parent":"indoeuropean",
+    "display_order":9,
+    "node_type":"branch",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%83%83%E3%82%AF%E8%AA%9E%E6%B4%BE",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Italic_languages"
+}

@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"frisian",
+    "name":"フリジア語",
+    "code":"fry",
+    "native_name":"Frysk etc.",
+    "ipa":"[frisk]",
+    "summary":"オランダ北部のフリースラント州やドイツ北西部沿岸で話される西ゲルマン語群の言語群であり、英語と最も近縁な現存言語として知られるアングロ・フリジア諸語に属する。ラテン文字を用い、歴史的にはオランダ語やドイツ語の強い影響を受けながらも独自の言語として維持されてきた。音韻や基礎語彙には英語との共通点が多く、西ゲルマン語群の歴史を理解する上で重要な位置を占める。",
+    "classification":"インド・ヨーロッパ語族 > ゲルマン語派 > 西ゲルマン語群",
+    "script":"ラテン文字",
+    "speakers":"約50万人",
+    "distribution":"フリースラントなど",
+    "parent":"west_germanic",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AA%E3%82%B8%E3%82%A2%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Frisian_languages",
+    "flag_image":"flags/fry.svg"
+}

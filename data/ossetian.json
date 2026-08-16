@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"ossetian",
+    "name":"オセット語",
+    "code":"oss",
+    "native_name":"ирон ӕвзаг, дигорон ӕвзаг",
+    "ipa":"[iˈron ɐvˈzäɡ], [digoˈron ʌvˈzäɡ]",
+    "summary":"カフカス山脈の中部（ロシアの北オセチア共和国及び南オセチア）で話されており、キリル文字を用いる。古代スキタイ・サルマティア系のアラン語を経た末裔であり、周囲のイラン諸語から地理的に隔絶した環境で進化した。カフカス諸言語との長年の強力な接触により、印欧語としては極めて異質な膠着語的な格変化（9つの格）や、独自の放出音（ejective consonants）を含む音韻体系を発達させるなど、劇的な構造変化を遂げている。",
+    "classification":"インド・ヨーロッパ語族 > インド・イラン語派 > イラン語派 > 東イラン語群 > 北東イラン諸語",
+    "script":"キリル文字",
+    "speakers":"約50万人",
+    "distribution":"ロシア、ジョージアほか",
+    "parent":"n_eastern_iranian",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%BB%E3%83%83%E3%83%88%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Ossetian_language",
+    "flag_image":"flags/oss.svg"
+}

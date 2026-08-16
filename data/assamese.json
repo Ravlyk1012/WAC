@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"assamese",
+    "name":"アッサム語",
+    "code":"asm",
+    "native_name":"অসমীয়া",
+    "ipa":"[ɔxɔmija]",
+    "summary":"インド最東端のアッサム州の公用語であり、ブラマプトラ川流域を中心に話される。表記にはベンガル文字をわずかに改変した文字体系（アッサム文字）を用いる。地理的にチベット・ビルマ語族やタイ・カダイ語族に包囲されてきたため、インド・アーリア語派としては特異な変化を起こしており、例えばサンスクリット由来の反舌音と歯音の区別を失い、独自の軟口蓋摩擦音 /x/を発達させている。",
+    "classification":"インド・ヨーロッパ語族 > インド・イラン語派 > インド・アーリア語派 > 東部語群",
+    "script":"ベンガル・アッサム文字",
+    "speakers":"約2000万人",
+    "distribution":"インド北東部アッサム州ほか",
+    "parent":"e_indoaryan",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%83%E3%82%B5%E3%83%A0%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Assamese_language",
+    "flag_image":"flags/asm.svg"
+}

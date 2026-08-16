@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"romanian",
+    "name":"ルーマニア語",
+    "code":"ron",
+    "native_name":"limba română; românește",
+    "ipa":"[ˈlimba roˈmɨnə], [romɨˈneʃte]",
+    "summary":"ルーマニアおよびモルドヴァで公用語として話される東ロマンス諸語最大の言語。周囲をスラヴ諸語などに囲まれながらもラテン語由来の基本構造を保持し、ロマンス諸語では珍しく名詞の格変化を現在まで維持している。また、名詞の後ろに定冠詞を付加する後置定冠詞は、バルカン言語連合を代表する特徴として知られる。",
+    "classification":"インド・ヨーロッパ語族 > イタリック語派 > ラテン・ファリスク語群 > ロマンス諸語 > 東ロマンス諸語",
+    "script":"ラテン文字",
+    "speakers":"約2200万人",
+    "distribution":"ルーマニア、モルドヴァなど",
+    "parent":"eastern_romance",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%83%9E%E3%83%8B%E3%82%A2%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Romanian_language",
+    "flag_image":"flags/ron.svg"
+}

@@ -1,0 +1,14 @@
+﻿{
+    "node_key":"c_indoaryan",
+    "name":"中部語群",
+    "summary":"インド北部のいわゆるヒンディー・ベルト（ヒンディー語圏）の中核をなすグループ。古代のシャウラセーニー・プラークリットを源流とし、歴史的にデリー周辺の口語（ハリー・ボーリー）が時代の要請とともに標準化されることで発展した。文法的には、名詞の中性が完全に消失して男性・女性の2性へと集約されたこと、および名詞の格変化が後置詞（助詞）に取って代わられた点が大きな特徴である。",
+    "classification":"インド・ヨーロッパ語族 > インド・イラン語派 > インド・アーリア語派",
+    "script":"デーヴァナーガリー、アラビア文字",
+    "speakers":"約7億人",
+    "distribution":"南・西アジア（インド北・中部、パキスタン）",
+    "parent":"indoaryan",
+    "node_type":"group",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Central_Indo-Aryan_languages"
+}

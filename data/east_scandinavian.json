@@ -1,0 +1,13 @@
+{
+    "node_key":"east_scandinavian",
+    "name":"東ノルド諸語",
+    "summary":"北ゲルマン語群の東側系統であり、現代のスウェーデン語とデンマーク語を含む。古ノルド語から発展する過程で二重母音の単母音化などの共通した音韻変化を経験し、格変化の簡略化や文法性の再編も比較的早く進んだ。現在でも両言語は高い相互理解性を持つことで知られる。",
+    "classification":"インド・ヨーロッパ語族 > ゲルマン語派 > 北ゲルマン語群",
+    "script":"ラテン文字",
+    "speakers":"約1500万人",
+    "distribution":"スカンディナヴィア半島東部、ユトランド半島周辺",
+    "parent":"old_norse",
+    "node_type":"subgroup",
+    "status":"living",
+    "controversial":false
+}

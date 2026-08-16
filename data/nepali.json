@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"nepali",
+    "name":"ネパール語",
+    "code":"nep",
+    "native_name":"नेपाली",
+    "ipa":"[nɛˈpɑːli]",
+    "summary":"ネパールの公用語であり、表記にはデーヴァナーガリーを用いる。北部語群（パハーリー諸語）の代表格であり、チベット・ビルマ語族との緊密な接触の結果、名詞の格関係を示す後置詞（「〜によって」「〜へ」など）が高度に発達し、屈折よりも後置詞による表現が重要な役割を果たしている。動詞の活用体系において、話し相手や対象との社会的関係を反映した発達した敬語体系を持つ。",
+    "classification":"インド・ヨーロッパ語族 > インド・イラン語派 > インド・アーリア語派 > 北部語群",
+    "script":"デーヴァナーガリー",
+    "speakers":"約1900万人",
+    "distribution":"ネパール周辺",
+    "parent":"n_indoaryan",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%8D%E3%83%91%E3%83%BC%E3%83%AB%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Nepali_language",
+    "flag_image":"flags/nep.svg"
+}

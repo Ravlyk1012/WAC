@@ -1,0 +1,19 @@
+{
+    "node_key":"dutch",
+    "name":"オランダ語",
+    "code":"nld",
+    "native_name":"Nederlands",
+    "ipa":"[ˈneːdərlɑnts]",
+    "summary":"オランダおよびベルギー北部の公用語であり、西ゲルマン語群の低地フランケン語系統に属する。高地ドイツ語子音推移を経験していないため、音韻面では英語との共通点も多い。文法的には格変化が大幅に簡略化されている一方、動詞第二位（V2）などドイツ語と共通する統語的特徴も保持している。",
+    "classification":"インド・ヨーロッパ語族 > ゲルマン語派 > 西ゲルマン語群",
+    "script":"ラテン文字",
+    "speakers":"約2500万人",
+    "distribution":"オランダ、ベルギー、スリナムなど",
+    "parent":"west_germanic",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Dutch_language",
+    "flag_image":"flags/nld.svg"
+}

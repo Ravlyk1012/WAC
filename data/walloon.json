@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"walloon",
+    "name":"ワロン語",
+    "code":"wln",
+    "native_name":"walon",
+    "ipa":"[wa.lɔ̃]",
+    "summary":"ベルギー南部（ワロン地方）およびフランスの一部で話されるガロ・ロマンス諸語の言語である。フランス語と近縁でありながら、独自の音韻・語彙・文学伝統を保持している。現在は少数言語となっているが、地域文化を支える言語として保存・継承が進められている。",
+    "classification":"インド・ヨーロッパ語族 > イタリック語派 > ラテン・ファリスク語群 > ロマンス諸語 > イタロ・西ロマンス諸語 > ガロ・ロマンス諸語",
+    "script":"ラテン文字",
+    "speakers":"約30～60万人",
+    "distribution":"ベルギー、フランスなど",
+    "parent":"galloromance",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%AD%E3%83%B3%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Walloon_language",
+    "flag_image":"flags/wln.svg"
+}

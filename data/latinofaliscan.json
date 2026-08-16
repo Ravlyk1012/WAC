@@ -1,0 +1,14 @@
+﻿{
+    "node_key":"latinofaliscan",
+    "name":"ラテン・ファリスク語群",
+    "summary":"イタリック語派の一系統であり、ラテン語とその近縁言語であるファリスク語を含む。オスク・ウンブリア語群とは対照的に、印欧祖語の */kʷ/ をよく保持する「Q-イタリック」の特徴を持つ。ローマの発展とともにラテン語が地中海世界へ広く拡大し、この系統からフランス語・スペイン語・イタリア語など現代のロマンス諸語が生まれた。",
+    "classification":"インド・ヨーロッパ語族 > イタリック語派",
+    "script":"ラテン文字",
+    "speakers":"約9億人",
+    "distribution":"ヨーロッパ中・西・南部、中南米、アフリカなど",
+    "parent":"italic",
+    "node_type":"group",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Latino-Faliscan_languages"
+}

@@ -1,0 +1,15 @@
+﻿{
+    "node_key":"southern_romance",
+    "name":"南ロマンス諸語",
+    "summary":"ロマンス諸語の中で比較的早い時期に他系統から分かれた系統であり、主にサルデーニャ語が属する。ラテン語以来の音韻的特徴を比較的よく保持しており、他のロマンス諸語では変化した母音体系にも古い特徴が見られる。冠詞の形成などにも独自の発達が認められ、ロマンス語史の研究において重要な位置を占める。",
+    "classification":"インド・ヨーロッパ語族 > イタリック語派 > ラテン・ファリスク語群 > ロマンス諸語",
+    "script":"ラテン文字",
+    "speakers":"約120万人",
+    "distribution":"コルシカ島、サルデーニャ島など",
+    "parent":"romance",
+    "node_type":"subgroup",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E5%8D%97%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B9%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Southern_Romance_languages"
+}

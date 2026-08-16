@@ -1,0 +1,15 @@
+﻿{
+    "node_key":"iberoromance",
+    "name":"イベロ・ロマンス語",
+    "summary":"イベリア半島を中心に発展したロマンス諸語の系統であり、スペイン語、ポルトガル語、ガリシア語などを含む。大航海時代以降、ヨーロッパ外へ広く拡大し、現在では世界でも有数の話者数を持つ言語群となっている。歴史的にはアラビア語との長期的な接触により、多くの借用語を取り入れていることも特徴である。",
+    "classification":"インド・ヨーロッパ語族 > イタリック語派 > ラテン・ファリスク語群 > ロマンス諸語 > イタロ・西ロマンス諸語",
+    "script":"ラテン文字",
+    "speakers":"約7億1000万人以上",
+    "distribution":"イベリア半島、フランス、中南米など",
+    "parent":"italowestern",
+    "node_type":"subgroup",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%99%E3%83%AD%E3%83%BB%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B9%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Iberian_Romance_languages"
+}

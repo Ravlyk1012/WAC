@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"ancient_greek",
+    "name":"古典（古代）ギリシャ語",
+    "code":"grc",
+    "native_name":"Ἑλληνική γλῶσσα",
+    "ipa":"[hellɛːnikɛ̌ː ɡlɔ̂ːs.sa]",
+    "summary":"紀元前5世紀〜4世紀頃の古代ギリシャ、特にアテナイを中心とする文語（アッティカ方言など）。フェニキア文字を改良して母音字を導入した独自のギリシャ文字を用い、5つの格、3つの数（単・双・複）、4つの法、複雑な動詞の時制・アスペクト体系を発達させた。ピッチアクセント（高低アクセント）体系を持ち、西洋哲学・科学・文学の基礎を築いた言語として、のちのヨーロッパ諸言語に大きな語彙的影響を与えた。",
+    "classification":"インド・ヨーロッパ語族 > ヘレニック語派",
+    "script":"ギリシャ文字",
+    "speakers":"死語（文語）",
+    "distribution":"東地中海、ギリシャ・ローマ地域",
+    "parent":"hellenic",
+    "node_type":"language",
+    "status":"historical",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E5%8F%A4%E4%BB%A3%E3%82%AE%E3%83%AA%E3%82%B7%E3%82%A2%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Ancient_Greek",
+    "flag_image":"flags/grc.svg"
+}

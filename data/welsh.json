@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"welsh",
+    "name":"ウェールズ語",
+    "code":"cym",
+    "native_name":"Cymraeg, y Gymraeg",
+    "ipa":"[kəmˈraːiɡ], [ə ɡəmˈraːiɡ]",
+    "summary":"英国語。独自のラテン文字正書法を用い、ll で表される無声歯茎側面摩擦音 [ɬ] など特徴的な音韻を持つ。語頭子音変異やVSO語順を現在も維持し、公教育・行政・放送など幅広い分野で日常的に使用されている。",
+    "classification":"インド・ヨーロッパ語族 > ケルト語派 > 島嶼ケルト語群 > ブリソン諸語",
+    "script":"ラテン文字",
+    "speakers":"約100万人",
+    "distribution":"ウェールズなど",
+    "parent":"brythonic",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%AB%E3%82%BA%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Welsh_language",
+    "flag_image":"flags/cym.svg"
+}

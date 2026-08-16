@@ -1,0 +1,15 @@
+﻿{
+    "node_key":"continental_celtic",
+    "name":"大陸ケルト語群",
+    "summary":"古代ヨーロッパ本土およびアナトリア半島で話されていたケルト語派の諸言語で、ガリア語、ケルティベリア語、レポント語などが含まれる。ローマ化や周辺言語への置き換えによってすべて消滅したが、碑文や地名・人名からその姿を知ることができる。言語学的には*/kʷ/ が /p/ になった P-ケルト語（ガリア語・レポント語など）と/kʷ/ を保った Q-ケルト語（ケルティベリア語など）という言語群が存在していたことが知られている。",
+    "classification":"インド・ヨーロッパ語族 > ケルト語派",
+    "script":"ギリシャ文字、ラテン文字、古イタリア文字など",
+    "speakers":"死語",
+    "distribution":"ヨーロッパ大陸部、アナトリア半島など",
+    "parent":"celtic",
+    "node_type":"group",
+    "status":"historical",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%99%B8%E3%82%B1%E3%83%AB%E3%83%88%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Continental_Celtic_languages"
+}

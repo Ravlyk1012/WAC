@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"spanish",
+    "name":"スペイン語",
+    "code":"spa",
+    "native_name":"español; castellano",
+    "ipa":"[espaˈɲol]; [kasteˈʎano]",
+    "summary":"スペインの公用語（カスティーリャ語）であり、中南米を中心に世界有数の話者数を持つイベロ・ロマンス諸語最大の言語。母音体系は /a/, /e/, /i/, /o/, /u/ の5母音から成り、綴りと発音の対応が比較的規則的である。ラテン語の語頭 f が無音化して h となる音韻変化（facere → hacer）や、j で表される無声軟口蓋摩擦音 [x] の発達などが代表的な特徴である。",
+    "classification":"インド・ヨーロッパ語族 > イタリック語派 > ラテン・ファリスク語群 > ロマンス諸語 > イタロ・西ロマンス諸語 > イベロ・ロマンス諸語",
+    "script":"ラテン文字",
+    "speakers":"約5億2000万人（母語話者）",
+    "distribution":"スペイン、中南米など",
+    "parent":"iberoromance",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%B3%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Spanish_language",
+    "flag_image":"flags/spa.svg"
+}

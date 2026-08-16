@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"sanskrit",
+    "name":"サンスクリット",
+    "code":"san",
+    "native_name":"संस्कृतम्",
+    "ipa":"/Saṃskṛtam/",
+    "summary":"紀元前4世紀頃に文法家パーニニによって規範化され、ヒンドゥー教や仏教の聖典言語として絶対的な地位を築いた古代の古典文語。現在は主にデーヴァナーガリー文字で表記されるが、歴史的にはブラーフミー系の様々な文字で記録され、3つの数（単・双・複）、3つの性、8つの格変化という極めて厳格かつ精密な屈折体系を持つ。語彙や文法構造は、のちのアジア諸言語（東南アジアやチベットなど）に甚大な文化史的影響を与え続けた。",
+    "classification":"インド・ヨーロッパ語族 > インド・イラン語派 > インド・アーリア語派",
+    "script":"デーヴァナーガリー、ブラーフミー文字、その他ブラーフミー系文字など",
+    "speakers":"死語（文語）",
+    "distribution":"インド亜大陸、南東アジア地域、東南・東アジアの仏教圏など",
+    "parent":"indoaryan",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%83%E3%83%88",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Sanskrit",
+    "flag_image":"flags/san.svg"
+}

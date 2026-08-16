@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"gujarati",
+    "name":"グジャラート語",
+    "code":"guj",
+    "native_name":"ગુજરાતી",
+    "ipa":"[ɡudʒəˈɾɑt̪i]",
+    "summary":"インド西部のグジャラート州の公用語であり、マハトマ・ガンディーの母語としても知られる。デーヴァナーガリーの変種で、文字の上の横線（シローレーカー）を取り除いた独自のグジャラート文字を用いる。文法面では西部語群の典型として男性・女性・中性の3性を完全に保持しており、過去時制においては他動詞の主語が能格のマーカーを伴う分裂能格構造を機能させている。",
+    "classification":"インド・ヨーロッパ語族 > インド・イラン語派 > インド・アーリア語派 > 西部語群",
+    "script":"グジャラート文字",
+    "speakers":"約6000万人",
+    "distribution":"インドのグジャラート州",
+    "parent":"w_indoaryan",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%B0%E3%82%B8%E3%83%A3%E3%83%A9%E3%83%BC%E3%83%88%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Gujarati_language",
+    "flag_image":"flags/guj.svg"
+}

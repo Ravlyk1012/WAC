@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"romansh",
+    "name":"ロマンシュ語",
+    "code":"roh",
+    "native_name":"romontsch, rumantsch, rumauntsch, rumàntsch",
+    "ipa":"[ʁoˈmɔntʃ], [rʊˈmantʃ], [rʊˈmɛntʃ], [rʊˈmaʊ̯ntʃ], [rəˈmøntʃ]",
+    "summary":"スイス東部グラウビュンデン州で話されるレト・ロマンス諸語の言語であり、スイスの国語の一つに定められている。複数の方言から成り、周囲のドイツ語との長期的な接触により語彙や表現に大きな影響を受けてきた。一方で、アルプス地域におけるロマンス語の古い特徴も保持しており、ロマンス語史を考える上で重要な言語の一つである。",
+    "classification":"インド・ヨーロッパ語族 > イタリック語派 > ラテン・ファリスク語群 > ロマンス諸語 > イタロ・西ロマンス諸語 > レト・ロマンス諸語",
+    "script":"ラテン文字",
+    "speakers":"約4～6万人",
+    "distribution":"スイスのグラウビュンデン州など",
+    "parent":"rhaetoromance",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A5%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Romansh_language",
+    "flag_image":"flags/roh.svg"
+}

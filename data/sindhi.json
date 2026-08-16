@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"sindhi",
+    "name":"シンド語",
+    "code":"snd",
+    "native_name":"سِنڌِي",
+    "ipa":"[sɪndʱiː]",
+    "summary":"パキスタンのシンド州およびインドのシンド系住民の間で話される北西語群の言語。パキスタンではアラビア文字を大幅に拡張した独自の52文字の正書法が用いられ、インドではデーヴァナーガリーも併用される。音韻論的にサンスクリットの古い子音体系を保持しているだけでなく、正門を下げることで発音する一連の入破音（implosive）を発達させている点が、周辺の言語から際立つ最大の特徴である。",
+    "classification":"インド・ヨーロッパ語族 > インド・イラン語派 > インド・アーリア語派 > 北西語群",
+    "script":"アラビア・ペルシャ文字、デーヴァナーガリー",
+    "speakers":"約3700万人",
+    "distribution":"パキスタンのシンド州",
+    "parent":"n_w_indoaryan",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%83%89%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Sindhi_language",
+    "flag_image":"flags/snd.svg"
+}

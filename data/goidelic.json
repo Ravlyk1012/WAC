@@ -1,0 +1,15 @@
+﻿{
+    "node_key":"goidelic",
+    "name":"ゲール諸語",
+    "summary":"アイルランド、スコットランド、マン島に広がる島嶼ケルト語群の一系統であり、アイルランド語、スコットランド・ゲール語、マン島語が属する。ブリソン諸語とは異なり、ケルト祖語の */kʷ/ を /k/ の系列として保持したことから Q-ケルト語とも呼ばれる。古アイルランド語以来の豊かな屈折体系を受け継ぎ、現代でも語頭子音変異や複雑な動詞体系など、古い文法的特徴を数多く保持している。",
+    "classification":"インド・ヨーロッパ語族 > ケルト語派 > 島嶼ケルト語群",
+    "script":"オガム文字、ラテン文字",
+    "speakers":"約210万人",
+    "distribution":"アイルランド、スコットランド、マン島など",
+    "parent":"insular_celtic",
+    "node_type":"subgroup",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%BC%E3%83%AB%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Goidelic_languages"
+}

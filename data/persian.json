@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"persian",
+    "name":"ペルシャ語",
+    "code":"pes",
+    "native_name":"فارسی",
+    "ipa":"[fɒːɾˈsiː]",
+    "summary":"イランの公用語であり、アラビア文字に4文字を加えたペルシャ文字を用いる。古代・中期の複雑な文法をすべて削ぎ落とした結果、名詞の格変化も文法性も持たず、人称代名詞にも性の区別が存在しない、分析的な文法構造を持つにいたった。語順はSOV（主語-目的語-動詞）であり、歴史的にアラビア語から大量の語彙を借用しつつも、高度な文学・宮廷言語として発展した。",
+    "classification":"インド・ヨーロッパ語族 > インド・イラン語派 > イラン語派 > 西イラン語群 > 南西イラン諸語",
+    "script":"ペルシャ文字",
+    "speakers":"約9100万人",
+    "distribution":"イラン、アフガニスタン、ロシアほか",
+    "parent":"old_persian",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%AB%E3%82%B7%E3%82%A2%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Persian_language",
+    "flag_image":"flags/pes.svg"
+}

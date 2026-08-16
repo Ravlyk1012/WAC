@@ -1,0 +1,17 @@
+﻿{
+    "node_key":"avestan",
+    "name":"†アヴェスター語",
+    "code":"ave",
+    "summary":"ゾロアスター教の聖典『アヴェスター』に記録されている、紀元前2千年紀末から紀元前1千年紀に成立したと考えられる死語（東イラン語群の最初期段階とされる）。現存する写本は後世に整備されたアヴェスター文字で記録されており、古代インドのサンスクリット（リグ・ヴェーダの言語）とは驚くほど対応関係が明瞭である。名詞の8つの格変化や3つの数（単・双・複）を完全に保持しており、イラン語派の最古の姿を伝える言語学の一級史料である。",
+    "classification":"インド・ヨーロッパ語族 > インド・イラン語派 > イラン語派 > 東イラン語群 > 南東イラン諸語",
+    "script":"アヴェスター文字",
+    "speakers":"死語（文語）",
+    "distribution":"イラン東部、アフガニスタン、中央アジア南部",
+    "parent":"s_eastern_iranian",
+    "node_type":"language",
+    "status":"historical",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B4%E3%82%A7%E3%82%B9%E3%82%BF%E3%83%BC%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Avestan",
+    "flag_image":"flags/ave.svg"
+}

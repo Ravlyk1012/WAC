@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"albanian",
+    "name":"アルバニア語",
+    "code":"sqi",
+    "native_name":"shqip, gjuha shqipe, arbërisht",
+    "ipa":"[ʃcip], [ˈɟuha ˈʃcipɛ], [aɾbəˈɾiʃt]",
+    "summary":"アルバニア共和国およびコソヴォの公用語で、現在はラテン文字を用いる。北部のゲグ方言と南部のトスク方言に大別され、現在の標準語はトスク方言をベースに規範化されている。名詞の格変化（5格）を持つほか、名詞の後ろに定冠詞を結合させる後置定冠詞や、接続法の独特な発達など、地理的に近隣のルーマニア語やギリシャ語など非親縁言語と文法構造を共有するバルカン言語連合の典型例としても知られる。",
+    "classification":"インド・ヨーロッパ語族 > アルバニア語派",
+    "script":"ラテン文字",
+    "speakers":"約750万人",
+    "distribution":"アルバニア、コソヴォ、ギリシャなど",
+    "parent":"albanian_br",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%90%E3%83%8B%E3%82%A2%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Albanian_language",
+    "flag_image":"flags/sqi.svg"
+}

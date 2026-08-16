@@ -1,0 +1,15 @@
+﻿{
+    "node_key":"eastern_iranian",
+    "name":"東イラン語群",
+    "summary":"イラン語派の東方（主に中央アジアからパキスタン北部、中国西端など）に展開したグループで、西イラン語群とは音韻・形態論的に一線を画す。西イラン語群が歴史的に格変化を大幅に簡略化・消失させたのに対し、東イラン語群には、西イラン語群より格体系や屈折的特徴を残す言語が比較的多いのが大きな特徴である。音韻面では、語頭の破裂音 /d/ や /g/ が摩擦音 /δ/ や /γ/ へと変化するなどの共通の改新傾向を持つ。",
+    "classification":"インド・ヨーロッパ語族 > インド・イラン語派 > イラン語派",
+    "script":"アラビア・ペルシャ文字、キリル文字、ラテン文字",
+    "speakers":"約6000万人",
+    "distribution":"西アジア、中央アジア、コーカサス、南アジア",
+    "parent":"iranian",
+    "node_type":"group",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E6%9D%B1%E3%82%A4%E3%83%A9%E3%83%B3%E8%AA%9E%E7%BE%A4",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Eastern_Iranian_languages"
+}

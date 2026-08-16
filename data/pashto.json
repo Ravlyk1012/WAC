@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"pashto",
+    "name":"パシュトー語",
+    "code":"pus",
+    "native_name":"پښتو",
+    "ipa":"[pəʂˈto]/[pʊxˈto]/[pəçˈto]/[pəʃˈto]",
+    "summary":"アフガニスタンの公用語（ダリー語とともに）であり、パキスタン北西部でも話される南東イラン諸語の代表格。アラビア文字（ペルシア文字を基にした独自の拡張変種）を用い、古いイラン語の特徴を多く残している。名詞に2つの性（男・女）と2つの格（直接格・斜格）の区別を持ち、過去時制においては主語が斜格になり目的語が動詞と一致する分裂能格構造を極めて明瞭に保持している。",
+    "classification":"インド・ヨーロッパ語族 > インド・イラン語派 > イラン語派 > 東イラン語群 > 南東イラン諸語",
+    "script":"パシュトー文字",
+    "speakers":"約5000万人",
+    "distribution":"アフガニスタン、パキスタンほか",
+    "parent":"s_eastern_iranian",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%B7%E3%83%A5%E3%83%88%E3%83%BC%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Pashto",
+    "flag_image":"flags/pus.svg"
+}

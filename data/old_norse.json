@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"old_norse",
+    "name":"†古ノルド語",
+    "code":"non",
+    "native_name":"ᛏᚢᚾᛋᚴ : ᛏᚢᚾᚴᛅ; ᚾᚢᚱᚢᚾᛏ : ᛘᛅᛚ",
+    "ipa":"[ˈdɔ̃nsk ˈtuŋɡɑ]; [ˈnɔrːønt ˈmɑːl]",
+    "summary":"8〜14世紀頃にスカンディナヴィアや北大西洋の植民地で話されていた北ゲルマン語群の古典言語であり、現代の北欧諸語の共通祖先である。初期にはルーン文字、のちにはラテン文字で記録され、サガ文学や北欧神話など豊富な文献を残した。名詞の4格や3つの文法性など古い屈折体系を保持するとともに、後置定冠詞など北ゲルマン諸語に共通する特徴も確立していた。",
+    "classification":"インド・ヨーロッパ語族 > ゲルマン語派 > 北ゲルマン語群",
+    "script":"ルーン文字、ラテン文字",
+    "speakers":"死語",
+    "distribution":"スカンディナヴィア、アイスランド、フェロー諸島、グリーンランドなど",
+    "parent":"north_germanic",
+    "node_type":"language",
+    "status":"historical",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E5%8F%A4%E3%83%8E%E3%83%AB%E3%83%89%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Old_Norse",
+    "flag_image":"flags/non.svg"
+}

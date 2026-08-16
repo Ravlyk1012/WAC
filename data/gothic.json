@@ -1,0 +1,19 @@
+{
+    "node_key":"gothic",
+    "name":"†ゴート語",
+    "code":"got",
+    "native_name":"𐌲𐌿𐍄𐌰𐍂𐌰𐌶𐌳𐌰, 𐌲𐌿𐍄𐍂𐌰𐌶𐌳𐌰, 𐌲𐌿𐍄𐌹𐍃𐌺𐌰 𐍂𐌰𐌶𐌳𐌰",
+    "ipa":"/gutarazda/, /gutrazda/, /gutiska razda/",
+    "summary":"東ゲルマン語群に属する消滅言語であり、4世紀に司教ウルフィラが翻訳した聖書によって、ゲルマン語派最古級のまとまった文献が残されている。独自のゴート文字で記録されており、双数形や重複過去など、他のゲルマン諸語では失われた古い特徴を比較的よく保持している。ゲルマン祖語の再建や比較言語学において極めて重要な資料とされる。",
+    "classification":"インド・ヨーロッパ語族 > ゲルマン語派 > 東ゲルマン語群",
+    "script":"ゴート文字",
+    "speakers":"死語",
+    "distribution":"東欧、バルカン半島、イタリア、黒海北岸など",
+    "parent":"east_germanic",
+    "node_type":"language",
+    "status":"historical",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%BC%E3%83%88%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Gothic_language",
+    "flag_image":"flags/got.svg"
+}

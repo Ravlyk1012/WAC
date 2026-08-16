@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"dari",
+    "name":"ダリー語",
+    "code":"prs",
+    "native_name":"دری",
+    "ipa":"[d̪ɐˈɾiː]",
+    "summary":"アフガニスタンの公用語（パシュトー語とともに）であり、現地で話されるペルシャ語の標準変種（アフガン・ペルシャ語）。イランのペルシャ語と同じくペルシャ文字を使用し、文法構造もほぼ同一だが、音韻面においてより古典的なペルシャ語に近い母音体系を保っている。例えば、イランのペルシャ語で統合されてしまった長母音 /ē/ と /ī/、/ō/ と /ū/ の区別を現代も厳密に保っている点が言語学的な大きな特徴である。",
+    "classification":"インド・ヨーロッパ語族 > インド・イラン語派 > イラン語派 > 西イラン語群 > 南西イラン諸語",
+    "script":"ペルシャ文字",
+    "speakers":"約1500万人",
+    "distribution":"アフガニスタンほか",
+    "parent":"old_persian",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%AA%E3%83%BC%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Dari",
+    "flag_image":"flags/prs.svg"
+}

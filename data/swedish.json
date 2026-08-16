@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"swedish",
+    "name":"スウェーデン語",
+    "code":"swe",
+    "native_name":"svenska",
+    "ipa":"[ˈsvɛ̂nːska]",
+    "summary":"スウェーデンの公用語であり、フィンランドの一部でも公用語として用いられる東ノルド諸語である。ラテン文字を使用し、デンマーク語やノルウェー語と高い相互理解性を持つ。歴史的には中世低地ドイツ語の影響を受けながら格変化を失い、現在は通性・中性の2性体系を採用している。多くの方言では高低アクセント（ピッチアクセント）が発達していることも特徴である。",
+    "classification":"インド・ヨーロッパ語族 > ゲルマン語派 > 北ゲルマン語群 > 東ノルド諸語",
+    "script":"ラテン文字",
+    "speakers":"約1000万人",
+    "distribution":"スウェーデン、フィンランドなど",
+    "parent":"east_scandinavian",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%87%E3%83%B3%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Swedish_language",
+    "flag_image":"flags/swe.svg"
+}

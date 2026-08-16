@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"dhivehi",
+    "name":"ディベヒ語",
+    "code":"div",
+    "native_name":"ދިވެހި, /Divehi",
+    "ipa":"[d̪iʋehi]",
+    "summary":"インド洋の島国モルディヴ共和国の公用語であり、島嶼語群の最南端の言語。アラビア数字や現地独自の記号を基に作られた、右から左へ書く特異なターナ文字を用いる。シンハラ語と近縁で、共通の中期インド・アーリア語から分化した1千年紀頃に分岐したとされ、さらに本土から孤立したため文法性の完全消失や、独自の無声声門破裂音 [ʔ]の多用など、インド・アーリア語派の中でも極端に変貌を遂げた言語の一つである。",
+    "classification":"インド・ヨーロッパ語族 > インド・イラン語派 > インド・アーリア語派 > 島嶼語群",
+    "script":"ターナ文字、ラテン文字",
+    "speakers":"約50万人",
+    "distribution":"モルディヴほか",
+    "parent":"insular_indoaryan",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%83%99%E3%83%92%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Maldivian_language",
+    "flag_image":"flags/div.svg"
+}

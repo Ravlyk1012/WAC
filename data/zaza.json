@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"zaza",
+    "name":"ザザキ語",
+    "code":"zza",
+    "native_name":"Zazaki",
+    "ipa":"[zazaki]",
+    "summary":"主にトルコ東部（アナトリア東部）に住むザザ人が話す北西イラン諸語の言語で、現在は主にラテン文字で表記される。言語学的にはクルド語とは明確に異なる独自の変流であり、むしろカスピ海沿岸のゴーラーニ語などと近い親縁性を持つ（ザザ・ゴーラーニ群）。西イラン語群の中では例外的に極めて保守的な文法を持っており、名詞の2つの性（男・女）や2つの格を保持し、過去時制の能格構造も完全な形で機能している。",
+    "classification":"インド・ヨーロッパ語族 > インド・イラン語派 > イラン語派 > 西イラン語群 > 北西イラン諸語",
+    "script":"ラテン文字",
+    "speakers":"約300万人",
+    "distribution":"トルコ周辺ほか",
+    "parent":"n_western_iranian",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%B6%E3%82%B6%E3%82%AD%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Zaza_language",
+    "flag_image":"flags/zza.svg"
+}

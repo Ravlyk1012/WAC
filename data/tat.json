@@ -1,0 +1,18 @@
+﻿{
+    "node_key":"tat",
+    "name":"タート語",
+    "code":"ttt",
+    "native_name":"zuhun tati/зугьун тати",
+    "summary":"カフカス地方（主に対岸のアゼルバイジャンやロシアのダゲスタン共和国周辺）に住むタート人が話す南西イラン諸語の言語。歴史的に言語島として周囲のアゼルバイジャン語（テュルク語族）やカフカス諸言語に囲まれてきたため、それらの言語から強い文法的・語彙的影響を受けている。音韻面ではペルシャ語に近いものの、アゼルバイジャン語の音韻の影響を強く受けるなど、独自のハイブリッドな進化を遂げている。",
+    "classification":"インド・ヨーロッパ語族 > インド・イラン語派 > イラン語派 > 西イラン語群 > 南西イラン諸語",
+    "script":"キリル文字、ラテン文字",
+    "speakers":"5～20万人",
+    "distribution":"アゼルバイジャン、ロシア連邦ダゲスタン共和国ほか",
+    "parent":"old_persian",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%A0%E3%82%B9%E3%83%AA%E3%83%A0%E3%83%BB%E3%82%BF%E3%83%BC%E3%83%88%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Tat_language_(Caucasus)",
+    "flag_image":"flags/ttt.svg"
+}

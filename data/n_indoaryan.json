@@ -1,0 +1,15 @@
+﻿{
+    "node_key":"n_indoaryan",
+    "name":"北部語群",
+    "summary":"ヒマラヤ山脈の南麓（主にネパールからインド北部のウッタラーカンド州など）に沿って分布する、通称パハーリー諸語と呼ばれるグループ。チベット・ビルマ語族の諸言語（ネワール語やタマン語など）と長期間接触してきたため、それらの言語から深い文法・語彙的影響を受けている。音韻面では比較的シンプルだが、形態論において独自の動詞の丁寧表現（敬語体系）を発達させた。",
+    "classification":"インド・ヨーロッパ語族 > インド・イラン語派 > インド・アーリア語派",
+    "script":"デーヴァナーガリーなど",
+    "speakers":"約5000万人",
+    "distribution":"南アジア",
+    "parent":"indoaryan",
+    "node_type":"group",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%8F%E3%83%BC%E3%83%AB%E8%AA%9E%E7%BE%A4",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Northern_Indo-Aryan_languages"
+}

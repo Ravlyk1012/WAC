@@ -1,0 +1,18 @@
+﻿{
+    "node_key":"tocharian_a",
+    "name":"†トカラ語A（東トカラ語）",
+    "code":"xto",
+    "native_name":"tkaṃ",
+    "summary":"トカラ語派の主要な2方言（あるいは独立した言語）のうち、タリム盆地東部のトゥルファンやカラシャール周辺の文献から発見された言語（アグニ語とも呼ばれる）。発見された文献がほぼ仏教聖典の翻訳に限定されており、日常的な俗用文書が確認されていないため、発見当時すでに文語・宗教言語化していた可能性が示唆されている。トカラ語Bに比べて、語尾の母音脱落が顕著であり、名詞の格変化や動詞の活用がより簡略化・再編されている。",
+    "classification":"インド・ヨーロッパ語族 > トカラ語派",
+    "script":"トカラ文字",
+    "speakers":"死語",
+    "distribution":"タリム盆地",
+    "parent":"tocharian",
+    "node_type":"language",
+    "status":"historical",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%AB%E3%83%A9%E8%AA%9EA",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Tocharian_A",
+    "flag_image":"flags/xto.svg"
+}

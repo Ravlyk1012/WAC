@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"icelandic",
+    "name":"アイスランド語",
+    "code":"isl",
+    "native_name":"íslenska",
+    "ipa":"[ˈiːstlɛnska]",
+    "summary":"アイスランドの公用語であり、西ノルド諸語の中でも特に保守的な特徴を持つ言語である。ラテン文字に独自の文字（þ・ðなど）を加えて表記し、古ノルド語以来の4格や3つの文法性、複雑な動詞活用を現在も保持している。中世サガをはじめとする古典文学との連続性が高く、新しい概念については固有語をもとに新語を作る傾向が強いことでも知られる。",
+    "classification":"インド・ヨーロッパ語族 > ゲルマン語派 > 北ゲルマン語群 > 西ノルド諸語",
+    "script":"ラテン文字",
+    "speakers":"約40万人",
+    "distribution":"アイスランドなど",
+    "parent":"west_scandinavian",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Icelandic_language",
+    "flag_image":"flags/isl.svg"
+}

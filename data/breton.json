@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"breton",
+    "name":"ブルトン語",
+    "code":"bre",
+    "native_name":"brezhoneg",
+    "ipa":"[bʁeˈzɔ̃ːnɛk], [brəhɔ̃ˈnek]",
+    "summary":"フランス北西部ブルターニュ地方で話されるブリソン諸語の言語であり、ヨーロッパ大陸で現在も広く話される唯一のケルト語である。5〜6世紀頃にブリテン島から移住した人々によってもたらされ、長くフランス語と接触してきた結果、語彙や音韻の両面で大きな影響を受けた。ケルト語でありながら鼻母音を発達させたことでも知られる。",
+    "classification":"インド・ヨーロッパ語族 > ケルト語派 > 島嶼ケルト語群 > ブリソン諸語",
+    "script":"ラテン文字",
+    "speakers":"約10万人",
+    "distribution":"ブルターニュ地方など",
+    "parent":"brythonic",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%83%88%E3%83%B3%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Breton_language",
+    "flag_image":"flags/bre.svg"
+}

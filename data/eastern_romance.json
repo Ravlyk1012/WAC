@@ -1,0 +1,15 @@
+﻿{
+    "node_key":"eastern_romance",
+    "name":"東ロマンス諸語",
+    "summary":"バルカン半島を中心に発展したロマンス諸語の系統であり、ルーマニア語やアルーマニア語などを含む。西ロマンス諸語とは異なり、複数形に -s を用いず、母音交替による複数形も見られる。また、周辺のスラヴ諸語やギリシャ語、アルバニア語などとの長期的な接触により、後置定冠詞などを共有するバルカン言語連合の一員となっている。",
+    "classification":"インド・ヨーロッパ語族 > イタリック語派 > ラテン・ファリスク語群 > ロマンス諸語",
+    "script":"ラテン文字",
+    "speakers":"約2800万人",
+    "distribution":"ヨーロッパ南・東部など",
+    "parent":"romance",
+    "node_type":"subgroup",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E6%9D%B1%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B9%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Eastern_Romance_languages"
+}

@@ -1,0 +1,15 @@
+﻿{
+    "node_key":"western_iranian",
+    "name":"西イラン語群",
+    "summary":"イラン高原を中心に西側の地域（現在のイラン、イラク、トルコ、コーカサスなど）に強大な勢力を持ってきたグループ。東イラン語群とは対照的に、特に南西イラン諸語では歴史の非常に早い段階（中期ペルシア語の時代まで）で祖語の複雑な名詞の格変化や性の区別をほぼ完全に消失させ、構造を大幅に単純化（分析語化）させた共通の歴史を持つ。地理的・言語学的な特徴から、さらに北西イラン諸語と南西イラン諸語の2つに大別される。",
+    "classification":"インド・ヨーロッパ語族 > インド・イラン語派 > イラン語派",
+    "script":"ペルシャ文字、キリル文字、ラテン文字",
+    "speakers":"約1億7000万人",
+    "distribution":"南西アジア、中央アジア、コーカサス",
+    "parent":"iranian",
+    "node_type":"group",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E8%A5%BF%E3%82%A4%E3%83%A9%E3%83%B3%E8%AA%9E%E7%BE%A4",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Western_Iranian_languages"
+}

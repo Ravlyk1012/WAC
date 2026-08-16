@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"galician",
+    "name":"ガリシア語",
+    "code":"glg",
+    "native_name":"galego",
+    "ipa":"[ɡaˈleɣʊ]",
+    "summary":"スペイン北西部ガリシア自治州の公用語であり、イベロ・ロマンス諸語に属する。中世にはポルトガル語と共通の祖先であるガリシア・ポルトガル語として栄え、宮廷抒情詩の重要な文学言語となった。現在はスペイン語の影響を強く受けつつも、ポルトガル語との高い近縁性を保ち続けている。",
+    "classification":"インド・ヨーロッパ語族 > イタリック語派 > ラテン・ファリスク語群 > ロマンス諸語 > イタロ・西ロマンス諸語 > イベロ・ロマンス諸語",
+    "script":"ラテン文字",
+    "speakers":"約240万人",
+    "distribution":"ガリシア地方など",
+    "parent":"iberoromance",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%AA%E3%82%B7%E3%82%A2%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Galician_language",
+    "flag_image":"flags/glg.svg"
+}

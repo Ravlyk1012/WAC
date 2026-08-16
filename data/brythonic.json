@@ -1,0 +1,15 @@
+﻿{
+    "node_key":"brythonic",
+    "name":"ブリソン諸語",
+    "summary":"島嶼ケルト語群の一系統で、ウェールズ語、ブルトン語、コーンウォール語を含む。ゲール諸語とは対照的に、ケルト祖語の */kʷ/ が /p/ に変化した P-ケルト語として知られ、例えばウェールズ語 pen「頭」はアイルランド語 ceann と対応する。名詞の格変化は歴史の中でほぼ失われた一方、語頭子音変異やVSO語順など島嶼ケルト語の特徴は現在まで保持している。",
+    "classification":"インド・ヨーロッパ語族 > ケルト語派 > 島嶼ケルト語群",
+    "script":"ラテン文字",
+    "speakers":"約140万人",
+    "distribution":"ウェールズ、コーンウォール、ブルターニュなど",
+    "parent":"insular_celtic",
+    "node_type":"subgroup",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AA%E3%82%BD%E3%83%B3%E8%AB%B8%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Brittonic_languages"
+}

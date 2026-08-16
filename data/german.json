@@ -1,0 +1,19 @@
+{
+    "node_key":"german",
+    "name":"ドイツ語",
+    "code":"deu",
+    "native_name":"Deutsch",
+    "ipa":"[dɔɪ̯tʃ]",
+    "summary":"ドイツ、オーストリア、スイスなどで話される西ゲルマン語群の主要言語であり、ラテン文字を用いる。高地ドイツ語子音推移（第二次子音推移）を経験したことが大きな特徴で、英語やオランダ語とは対応する子音に体系的な違いがみられる。文法面では4つの名詞格と3つの文法性を保持し、動詞第二位（V2）や従属節での動詞後置などの語順を特徴とする。",
+    "classification":"インド・ヨーロッパ語族 > ゲルマン語派 > 西ゲルマン語群",
+    "script":"ラテン文字",
+    "speakers":"約1億人",
+    "distribution":"ドイツ、スイス、オーストリア、リヒテンシュタイン、ルクセンブルク、ベルギー、南チロル、ナミビアなど",
+    "parent":"west_germanic",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/German_language",
+    "flag_image":"flags/deu.svg"
+}

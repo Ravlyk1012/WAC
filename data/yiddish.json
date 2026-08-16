@@ -1,0 +1,19 @@
+{
+    "node_key":"yiddish",
+    "name":"イディッシュ語",
+    "code":"yid",
+    "native_name":"ייִדיש, יידיש, אידיש",
+    "ipa":"[ˈ(j)ɪdɪʃ]",
+    "summary":"中世の高地ドイツ語を基盤として、中東欧のユダヤ人社会で発達した西ゲルマン語群の言語。表記にはヘブライ文字を用い、文法や基本語彙はドイツ語に近い一方、ヘブライ語・アラム語・スラヴ諸語などから多くの語彙や表現を取り入れている。ユダヤ人の歴史や文化と深く結び付いた独自の言語である。",
+    "classification":"インド・ヨーロッパ語族 > ゲルマン語派 > 西ゲルマン語群",
+    "script":"ヘブライ文字",
+    "speakers":"約60万人",
+    "distribution":"欧州全域、イスラエル、北米など",
+    "parent":"west_germanic",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%87%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Yiddish",
+    "flag_image":"flags/yid.svg"
+}

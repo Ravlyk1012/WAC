@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"byzantine",
+    "name":"中世ギリシャ語（ビザンツ・ギリシャ語）",
+    "code":"grc",
+    "native_name":"Ῥωμαϊκή γλῶσσα",
+    "ipa":"[romaiˈci ˈɣlo.sa]",
+    "summary":"5世紀〜15世紀の東ローマ帝国（ビザンツ帝国）の公用語および文語。文法や語彙は古典語やコイネーの規範を厳格に模倣する保守的な文語が維持された一方、口語では格変化の簡略化や発音の大きな変化（母音・二重母音の多くが [i] の音に統合されるイオタ化現象など）が進行した。この古典的文語と変化した口語の解離は、後の現代ギリシャ語における二重言語状態に繋がっている。",
+    "classification":"インド・ヨーロッパ語族 > ヘレニック語派",
+    "script":"ギリシャ文字",
+    "speakers":"死語（文語）",
+    "distribution":"東ローマ帝国（ビザンツ帝国）周辺、バルカン半島、小アジア、黒海沿岸など",
+    "parent":"koine",
+    "node_type":"language",
+    "status":"historical",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E4%B8%AD%E4%B8%96%E3%82%AE%E3%83%AA%E3%82%B7%E3%82%A2%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Medieval_Greek",
+    "flag_image":"flags/byz.svg"
+}

@@ -1,0 +1,16 @@
+{
+    "node_key":"east_germanic",
+    "name":"東ゲルマン語群",
+    "code":"gme",
+    "summary":"ゲルマン語派の最初期に分岐した語群であり、ゴート族やヴァンダル族などが話していた言語を含む。現在はすべて消滅しているが、ゴート語をはじめとする資料には、双数形や古い動詞体系など、他のゲルマン諸語では失われた特徴が比較的よく保存されている。そのため、ゲルマン祖語の姿を復元する上で重要な資料となっている。",
+    "classification":"インド・ヨーロッパ語族 > ゲルマン語派",
+    "script":"ゴート文字など",
+    "speakers":"死語",
+    "distribution":"中・東欧周辺",
+    "parent":"germanic",
+    "node_type":"group",
+    "status":"historical",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E6%9D%B1%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%B3%E8%AA%9E%E7%BE%A4",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/East_Germanic_languages"
+}

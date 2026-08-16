@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"greek",
+    "name":"現代ギリシャ語",
+    "code":"ell",
+    "native_name":"Ελληνικά",
+    "ipa":"[eliniˈka]",
+    "summary":"現在のギリシャ共和国およびキプロスの公用語。中世の口語（民衆語）をベースにしながらも、古典語の語彙を大量に取り入れながら成立し、古代から続く伝統的なギリシャ文字を使用している。古代語に比べると、格変化が4つの格に集約され、不定詞の消失や、助動詞を用いた未来時制の再編成など周辺の言語と共通する構造を示す（バルカン言語連合）。",
+    "classification":"インド・ヨーロッパ語族 > ヘレニック語派",
+    "script":"ギリシャ文字",
+    "speakers":"約1300万人",
+    "distribution":"ギリシャ、キプロス、アルバニア、南イタリア、トルコなど",
+    "parent":"byzantine",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%AA%E3%82%B7%E3%82%A2%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Modern_Greek",
+    "flag_image":"flags/ell.svg"
+}

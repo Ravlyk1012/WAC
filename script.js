@@ -28,30 +28,42 @@ async()=>{
 
     // 全JSON読み込み
 
-    for(const file of listData.languages){
+    for (const file of listData.languages) {
 
-        const res =
-            await fetch(`data/${file}`);
-        
-        console.log(file);
+    const res =
+        await fetch(`data/${file}`);
+
+    console.log(file);
+
+    const data =
+        await res.json();
+
+    console.log("読み込み成功:", file);
+
+    nodes.push(data);
+
+    // node_keyで検索できるよう登録
+    nodeMap[data.node_key] = data;
+
+}
+
+
+    // ============================
+    // 全JSON読み込み後に親ノード確認
+    // ============================
 
     for (const node of nodes) {
-        if (node.parent && !nodes.some(n => n.node_key === node.parent)) {
-            console.error(
-              `親ノード不存在: ${node.name} -> ${node.parent}`
+
+        if (
+        node.parent &&
+        !nodes.some(n => n.node_key === node.parent)
+        ) {
+
+        console.error(
+            `親ノード不存在: ${node.name} -> ${node.parent}`
             );
+
         }
-    }
-
-        const data =
-            await res.json();
-
-        console.log("読み込み成功:", file);
-        
-        nodes.push(data);
-
-        // node_keyで検索できるよう登録
-        nodeMap[data.node_key] = data;
 
     }
 
@@ -113,7 +125,12 @@ function createNode(node, isRoot = false){
         nodes.filter(
             n=>n.parent===node.node_key
         );
-
+    
+    children.sort((a, b) => {
+        const orderA = a.display_order ?? 9999;
+        const orderB = b.display_order ?? 9999;
+        return orderA - orderB;
+    });
 
     // ==============================
     // 子ノードあり
@@ -672,13 +689,7 @@ document
 
 });
 
-document
-.getElementById("modal-close")
-.addEventListener("click",()=>{
 
-    closeCard();
-
-});
 
 document.addEventListener("keydown",(event)=>{
 

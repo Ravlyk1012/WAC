@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"manx",
+    "name":"†マン島語",
+    "code":"glv",
+    "native_name":"Gaelg, y Ghaelg, Gailck, y Ghailck",
+    "ipa":"[ɡɪlʲɡʲ], [ɡɪlʲkʲ], [əˈɣɪlʲɡʲ], [əˈɣɪlʲkʲ]",
+    "summary":"アイリッシュ海のマン島で話されていたゲール諸語の言語であり、ラテン文字による独自の正書法を持つ。1974年に最後の母語話者が亡くなったが、録音資料や文献を基にした復興運動が成功し、現在では学校教育や地域社会で新たな話者が育っている。現代における言語復興の成功例として国際的にも注目されている。",
+    "classification":"インド・ヨーロッパ語族 > ケルト語派 > 島嶼ケルト語群 > ゲール諸語",
+    "script":"ラテン文字",
+    "speakers":"死語（復興運動あり）",
+    "distribution":"マン島など",
+    "parent":"old_irish",
+    "node_type":"language",
+    "status":"historical",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%B3%E5%B3%B6%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Manx_language",
+    "flag_image":"flags/glv.svg"
+}

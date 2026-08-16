@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"occitan",
+    "name":"オック語",
+    "code":"oci",
+    "native_name":"lenga d'òc",
+    "ipa":"[leŋɡɒ ˈðɔ(k)]",
+    "summary":"フランス南部（歴史的なオクシタニア地方）で伝統的に話され、中世には吟遊詩人（トルバドゥール）の宮廷文学を支えた言語。フランス北部で「はい」を oïl（現代フランス語 oui）と言ったのに対し、この言語では oc と言ったことからオック語と呼ばれる。音韻的にはフランス語よりもラテン語の特徴を多く残し、カタルーニャ語とも近い関係にあるが、近代以降はフランス語の普及によって話者が大きく減少した。",
+    "classification":"インド・ヨーロッパ語族 > イタリック語派 > ラテン・ファリスク語群 > ロマンス諸語 > イタロ・西ロマンス諸語 > オクシタニア・ロマンス諸語",
+    "script":"ラテン文字",
+    "speakers":"約20万人",
+    "distribution":"オクシタニア地域など",
+    "parent":"occitanoromance",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%83%E3%82%AF%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Occitan_language",
+    "flag_image":"flags/oci.svg"
+}

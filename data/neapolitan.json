@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"neapolitan",
+    "name":"ナポリ語",
+    "code":"nap",
+    "native_name":"('o n)napulitano",
+    "ipa":"[(o n)napuliˈtɑːnə]",
+    "summary":"イタリア南部を中心に話されるイタロ・ダルマチア諸語の言語であり、標準イタリア語とは独立した発展の歴史を持つ。独自の音韻変化や語彙を発達させており、語末母音の弱化やラテン語由来の子音結合の変化などが特徴として知られる。南イタリアを代表する地域言語の一つであり、豊かな文学・音楽文化とも結び付いている。",
+    "classification":"インド・ヨーロッパ語族 > イタリック語派 > ラテン・ファリスク語群 > ロマンス諸語 > イタロ・西ロマンス諸語 > イタロ・ダルマチア諸語",
+    "script":"ラテン文字",
+    "speakers":"約570万人",
+    "distribution":"イタリアのカンパニア州など",
+    "parent":"italodalmatian",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%9D%E3%83%AA%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Neapolitan_language",
+    "flag_image":"flags/nap.svg"
+}

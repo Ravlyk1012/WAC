@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"english",
+    "name":"英語",
+    "code":"eng",
+    "native_name":"English",
+    "ipa":"[ˈɪŋɡlɪʃ]",
+    "summary":"イギリスを起源とする西ゲルマン語群の言語であり、現在では世界各地で広く使用される国際的な共通語となっている。歴史的に古ノルド語、フランス語、ラテン語、ギリシャ語などから大量の語彙を取り入れた結果、ゲルマン語を基盤としながら多様な語彙層を持つ言語へと発展した。文法面では格変化や文法性が大きく簡略化され、固定された語順が重要な役割を果たしている。また、大母音推移の影響により、綴りと発音の対応が複雑になっている。",
+    "classification":"インド・ヨーロッパ語族 > ゲルマン語派 > 西ゲルマン語群",
+    "script":"ラテン文字",
+    "speakers":"約4億人以上（母語話者）",
+    "distribution":"イギリス、アイルランド、北米、オセアニア、南アジア、アフリカなど世界各地",
+    "parent":"middle_english",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E8%8B%B1%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/English_language",
+    "flag_image":"flags/eng.svg"
+}

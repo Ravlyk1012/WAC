@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"hindi",
+    "name":"ヒンディー語",
+    "code":"hin",
+    "native_name":"हिन्दी",
+    "ipa":"[ˈɦɪndiː]",
+    "summary":"インドの連邦公用語であり、表記にはデーヴァナーガリーを用いる。ヒンドゥスターニー語の高級文語変種であり、ペルシャ・アラビア語由来の語彙を意識的に排除し、サンスクリット語から直接取り入れたタツサマ語彙を大量に導入することで独自のアカデミックな標準語を構築した。名詞には2つの性（男・女）と2つの格（直接格・斜格）があり、過去時制においては主語に後置詞nēを伴う分裂能格構造を展開する。",
+    "classification":"インド・ヨーロッパ語族 > インド・イラン語派 > インド・アーリア語派 > 中部語群",
+    "script":"デーヴァナーガリー",
+    "speakers":"約3億5000万人",
+    "distribution":"インド、ネパール、フィジーほか",
+    "parent":"hindustani",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Hindi",
+    "flag_image":"flags/hin.svg"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "node_key":"iranian",
+    "name":"イラン語派",
+    "code":"ira",
+    "summary":"中近東から中央アジアにかけて広大な地域に分布する語派であり、数千年に及ぶ明確な歴史的連続性を持つ。インド・アーリア語派とは極めて近い親縁性を持つが、祖語の有声帯気破裂音（*bh, *dh, *gh）の摩擦音化や、印欧祖語の破裂音が摩擦音化するなどの独自の音韻変化によって独自の進化を遂げた。歴史的に「古代」「中期」「現代」の3ステージに分類され、特に南西イラン諸語では分析的な構造（英語のように語順や前置詞に頼る構造）への変化が著しい。",
+    "classification":"インド・ヨーロッパ語族 > インド・イラン語派",
+    "script":"アラビア・ペルシャ文字、キリル文字など",
+    "speakers":"約2億人",
+    "distribution":"西アジア、中央アジア、コーカサス、南アジアなど",
+    "parent":"indoiranian",
+    "node_type":"branch",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%A9%E3%83%B3%E8%AA%9E%E7%BE%A4",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Iranian_languages"
+}

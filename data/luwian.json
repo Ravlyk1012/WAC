@@ -1,0 +1,17 @@
+﻿{
+    "node_key":"luwian",
+    "name":"†ルウィ語",
+    "code":"xlu/hlu",
+    "summary":"ヒッタイト語の近縁にあたるアナトリア語派の言語で、紀元前2千年紀から1千年紀初頭にかけてアナトリア南部からシリア北部で話された。楔形文字による記録（粘土板）のほか、主に印章や岩壁に刻まれた独自の「アナトリア象形文字（ルウィ象形文字）」による記録が残されているのが大きな特徴である。音韻論的にはヒッタイト語よりも一部の母音変化において変化が大きく、ヒッタイト帝国の崩壊後も新ヒッタイト国家群の公的な文字言語として存続した。",
+    "classification":"インド・ヨーロッパ語族 > アナトリア語派",
+    "script":"楔形文字、象形文字",
+    "speakers":"死語",
+    "distribution":"アナトリア地域、シリア北部",
+    "parent":"anatolian",
+    "node_type":"language",
+    "status":"historical",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%A6%E3%82%A3%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Luwian_language",
+    "flag_image":"flags/xlu.svg"
+}

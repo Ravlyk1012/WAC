@@ -1,0 +1,16 @@
+﻿{
+    "node_key":"romance",
+    "name":"ロマンス諸語",
+    "code":"roa",
+    "summary":"古代ラテン語の口語変種（俗ラテン語）から発展した言語群であり、ヨーロッパ南西部から中南米にかけて広く分布する。ラテン語の複雑な格変化や中性は大部分の言語で失われ、前置詞や語順によって文法関係を示す、より分析的な構造へと発展した。未来時制の再編成など多くの共通する革新を持つ一方、各地域で独自の発達を遂げ、多様な言語へと分化している。",
+    "classification":"インド・ヨーロッパ語族 > イタリック語派 > ラテン・ファリスク語群",
+    "script":"ラテン文字",
+    "speakers":"約9億人",
+    "distribution":"ヨーロッパ中・西・南部、中南米、アフリカなど",
+    "parent":"vulgar_latin",
+    "node_type":"group",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B9%E8%AB%B8%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Romance_languages"
+}

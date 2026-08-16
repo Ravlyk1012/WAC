@@ -1,0 +1,15 @@
+﻿{
+    "node_key":"oscoumbrian",
+    "name":"オスク・ウンブリア語群",
+    "summary":"イタリック語派の一系統であり、オスク語やウンブリア語などを含む古代言語群である。古代イタリア半島の広い地域で話されていたが、ローマ化の進展とともにラテン語へ置き換えられた。ラテン語とは異なる音韻変化を示し、印欧祖語の */kʷ/ が /p/ に変化する「P-イタリック」の特徴で知られる。碑文資料によって、その音韻や文法の一部が明らかになっている。",
+    "classification":"インド・ヨーロッパ語族 > イタリック語派",
+    "script":"エトルリア文字、ギリシャ文字、ラテン文字など",
+    "speakers":"死語",
+    "distribution":"イタリア中・南部",
+    "parent":"italic",
+    "node_type":"group",
+    "status":"historical",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%B9%E3%82%AF%E3%83%BB%E3%82%A6%E3%83%B3%E3%83%96%E3%83%AA%E3%82%A2%E8%AA%9E%E7%BE%A5",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Osco-Umbrian_languages"
+}

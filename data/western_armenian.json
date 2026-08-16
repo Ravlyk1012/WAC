@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"western_armenian",
+    "name":"西アルメニア語",
+    "code":"hyw",
+    "native_name":"Արեւմտահայերէն",
+    "ipa":"[ɑɾɛvmədɑhɑjɛˈɾɛn]",
+    "summary":"かつてオスマン帝国領内（現在のアナトリア東部）で話され、現在は主に欧米や中東、南米などの広大なディアスポラで維持されている標準語。東アルメニア語とは対照的に子音推移を起こしており、古典語の有声濁音が無気清音に、無気清音が有声濁音へと変化しているのが音韻の最大の特徴である。綴りに関してはソ連の正書法改革の影響を受けず、5世紀以来の古典アルメニア語の伝統的な正書法を守っている。",
+    "classification":"インド・ヨーロッパ語族 > アルメニア語派",
+    "script":"アルメニア文字",
+    "speakers":"約160万人",
+    "distribution":"トルコ、ジョージア、キプロス、イラク、欧米圏ほか",
+    "parent":"modern_armenian",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E8%A5%BF%E3%82%A2%E3%83%AB%E3%83%A1%E3%83%8B%E3%82%A2%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Western_Armenian",
+    "flag_image":"flags/xcl.svg"
+}

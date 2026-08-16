@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"catalan",
+    "name":"カタルーニャ語",
+    "code":"cat",
+    "native_name":"català",
+    "ipa":"[kətəˈla], [kataˈla]",
+    "summary":"スペイン北東部のカタルーニャ自治州やアンドラ、スペイン東部、フランス南部で話されるオクシタニア・ロマンス諸語の主要言語。独自の豊かな文学・文化を築いてきた言語であり、言語学的にはスペイン語よりもオック語との近縁性が高い。音韻面では語末母音の変化や母音体系に独自の特徴を持ち、ラテン語以来の特徴と独自の発展が融合した体系を形成している。",
+    "classification":"インド・ヨーロッパ語族 > イタリック語派 > ラテン・ファリスク語群 > ロマンス諸語 > イタロ・西ロマンス諸語 > オクシタニア・ロマンス諸語",
+    "script":"ラテン文字",
+    "speakers":"約400万人",
+    "distribution":"カタルーニャ地方など",
+    "parent":"occitanoromance",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%BF%E3%83%AB%E3%83%BC%E3%83%8B%E3%83%A3%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Catalan_language",
+    "flag_image":"flags/cat.svg"
+}

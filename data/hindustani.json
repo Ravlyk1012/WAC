@@ -1,0 +1,18 @@
+﻿{
+    "node_key":"hindustani",
+    "name":"ヒンドゥスターニー語",
+    "native_name":"हिन्दुस्तानी/ہندوستانی",
+    "ipa":"[ɦɪnd̪ʊst̪ɑːniː]",
+    "summary":"インド北部およびパキスタンで広く話されている、近代南アジアの巨大な共通口語（リンガ・フランカ）。基本的には共通の文法構造と基礎語彙を共有するが、歴史的にペルシャ語やアラビア語の語彙を大量に吸収して宮廷言語化した。これが近代の民族・宗教的アイデンティティの分裂に伴い、表記文字や高級語彙の借用元を違えることで、のちに「ヒンディー語」と「ウルドゥー語」という2つの公的標準語へと二分されることになった。",
+    "classification":"インド・ヨーロッパ語族 > インド・イラン語派 > インド・アーリア語派 > 中部語群",
+    "script":"デーヴァナーガリー、アラビア・ペルシャ文字ほか",
+    "speakers":"約6億人",
+    "distribution":"インド・パキスタン周辺",
+    "parent":"c_indoaryan",
+    "node_type":"complex",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%B3%E3%83%89%E3%82%A5%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%8B%E3%83%BC%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Hindustani_language",
+    "flag_image":"flags/hindus.svg"
+}

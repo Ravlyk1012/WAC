@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"hittite",
+    "name":"†ヒッタイト語",
+    "code":"hit",
+    "native_name":"𒌷𒉌𒅆𒇷",
+    "ipa":" /ne ši li/",
+    "summary":"紀元前2千年紀にアナトリア半島で栄えたヒッタイト帝国の公用語で、印欧語族の中で最古の粘土板記録（楔形文字）を持つ消滅言語。印欧祖語の喉音（laryngeal）の存在を示唆する子音 [ḫ] を保持していたことが20世紀初頭に明らかとなり、印欧語比較言語学における「喉音理論」を強く支持する証拠となった。文法面では、名詞に主格と対格の区別があるものの、動詞の時制は現在・過去の2つのみという簡素な体系を持つ。",
+    "classification":"インド・ヨーロッパ語族 > アナトリア語派",
+    "script":"楔形文字",
+    "speakers":"死語",
+    "distribution":"アナトリア地域",
+    "parent":"anatolian",
+    "node_type":"language",
+    "status":"historical",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%83%E3%82%BF%E3%82%A4%E3%83%88%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Hittite_language",
+    "flag_image":"flags/hit.svg"
+}

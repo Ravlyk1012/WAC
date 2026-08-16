@@ -1,0 +1,19 @@
+{
+    "node_key":"old_english",
+    "name":"†古英語",
+    "code":"ang",
+    "native_name":"Englisc, Ænglisc",
+    "ipa":"[ˈeŋɡliʃ], [ˈæŋɡliʃ]",
+    "summary":"5世紀頃にアングル人・サクソン人・ジュート人などによってブリテン島へもたらされ、11世紀末頃まで話された英語の初期段階。初期にはルーン文字、のちにはラテン文字で記録され、『ベーオウルフ』などの文学作品が残されている。現代英語とは異なり、豊富な格変化と文法性、複雑な動詞活用を備えた屈折語であった。",
+    "classification":"インド・ヨーロッパ語族 > ゲルマン語派 > 西ゲルマン語群",
+    "script":"ルーン文字、ラテン文字",
+    "speakers":"死語",
+    "distribution":"イングランド、スコットランド南部・東部など",
+    "parent":"west_germanic",
+    "node_type":"language",
+    "status":"historical",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E5%8F%A4%E8%8B%B1%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Old_English",
+    "flag_image":"flags/ang.svg"
+}

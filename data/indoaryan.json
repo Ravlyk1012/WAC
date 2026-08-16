@@ -1,0 +1,15 @@
+﻿{
+    "node_key":"indoaryan",
+    "name":"インド・アーリア語派",
+    "summary":"インド亜大陸を中心に圧倒的な話者数を持つ、インド・イラン語派の主要な一角。古代のヴェーダ語やサンスクリットを共通の祖先に持ち、時代とともにプラークリット（中期インド・アーリア語）」の段階を経て、現代の膨大なバリエーションへと分化した。文法的には、印欧祖語の複雑な屈折」から、助詞（後置詞）や助動詞を多用する、より分析的な構造へと変貌し、語順はSOV（主語-目的語-動詞）を基本とする。",
+    "classification":"インド・ヨーロッパ語族 > インド・イラン語派",
+    "script":"ブラーフミー系文字など",
+    "speakers":"約8億人",
+    "distribution":"南アジア、ヨーロッパ",
+    "parent":"indoiranian",
+    "node_type":"branch",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%89%E8%AA%9E%E7%BE%A4",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Indo-Aryan_languages"
+}

@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"cornish",
+    "name":"†コーンウォール語",
+    "code":"cor",
+    "native_name":"Kernewek, Kernowek",
+    "ipa":"[kəɾˈnuːək]",
+    "summary":"イングランド南西部コーンウォール地方で話されていたブリソン諸語の言語であり、ラテン文字で表記される。18世紀末までに日常言語としては消滅したが、20世紀以降、中世文献をもとにした復興運動が進められ、現在では教育や地域社会の中で再び使用されるようになっている。現代における言語復興の代表例として知られる。",
+    "classification":"インド・ヨーロッパ語族 > ケルト語派 > 島嶼ケルト語群 > ブリソン諸語",
+    "script":"ラテン文字",
+    "speakers":"死語（復興運動あり）",
+    "distribution":"コーンウォールなど",
+    "parent":"brythonic",
+    "node_type":"language",
+    "status":"historical",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%B3%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Cornish_language",
+    "flag_image":"flags/cor.svg"
+}

@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"tajik",
+    "name":"タジク語",
+    "code":"tgk",
+    "native_name":"Тоҷикӣ",
+    "ipa":"[t̪ʰɔ.d͡ʒi.kʰi]",
+    "summary":"タジキスタン共和国およびウズベキスタンの一部で話される、中央アジアのペルシャ語の標準変種。ソ連時代の政治的経緯から、歴史的なペルシャ文字ではなくキリル文字（独自の追加文字を含む）を一貫して使用しているのが最大の視覚的特徴である。音韻的にはペルシャ語の古典的な母音体系を一部残しつつも、周囲のテュルク諸語（ウズベク語など）から語彙や一部の表現で強い影響を受けている。",
+    "classification":"インド・ヨーロッパ語族 > インド・イラン語派 > イラン語派 > 西イラン語群 > 南西イラン諸語",
+    "script":"キリル文字",
+    "speakers":"約1000万人",
+    "distribution":"タジキスタン、ウズベキスタン、アフガニスタン、旧ソ連諸国ほか",
+    "parent":"old_persian",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%B8%E3%82%AF%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Tajik_language",
+    "flag_image":"flags/tgk.svg"
+}

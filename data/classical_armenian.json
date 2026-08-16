@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"classical_armenian",
+    "name":"†古典アルメニア語",
+    "code":"xcl",
+    "native_name":"գրաբար",
+    "ipa":"[ɡəɾɑˈpʰɑɾ]/[kʰəɾɑˈpʰɑɾ]",
+    "summary":"5世紀から11世紀頃まで用いられ、現代もアルメニア使徒教会の典礼言語として機能している文語。聖書のアルメニア語訳を契機に確立され、豊富な名詞の格変化（7格）や複雑な動詞の接辞・アスペクトの区別など、印欧祖語の古い形態論的特徴を多く保持しているとされる。音韻面では二重母音が豊富であり、後の現代語に比べて格変化の語尾が規則的であった。",
+    "classification":"インド・ヨーロッパ語族 > アルメニア語派",
+    "script":"アルメニア文字",
+    "speakers":"死語（文語）",
+    "distribution":"アルメニア高原周辺",
+    "parent":"armenian_br",
+    "node_type":"language",
+    "status":"historical",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E5%8F%A4%E5%85%B8%E3%82%A2%E3%83%AB%E3%83%A1%E3%83%8B%E3%82%A2%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Classical_Armenian",
+    "flag_image":"flags/xcl.svg"
+}

@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"danish",
+    "name":"デンマーク語",
+    "code":"dan",
+    "native_name":"dansk",
+    "ipa":"[ˈtænˀsk]",
+    "summary":"デンマークの公用語であり、東ノルド諸語に属する。ラテン文字を用い、スウェーデン語やノルウェー語と近縁な関係にある。格変化の消失や2性体系など東ノルド諸語に共通する特徴を持つ一方、子音の弱化やストト（stød）と呼ばれる独特の発音によって、他の北欧諸語とは異なる音韻体系を発達させている。",
+    "classification":"インド・ヨーロッパ語族 > ゲルマン語派 > 北ゲルマン語群 > 東ノルド諸語",
+    "script":"ラテン文字",
+    "speakers":"約550万人",
+    "distribution":"デンマーク、ドイツのシュレスヴィヒ・ホルシュタイン州など",
+    "parent":"east_scandinavian",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%AF%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Danish_language",
+    "flag_image":"flags/dan.svg"
+}

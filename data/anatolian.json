@@ -1,0 +1,17 @@
+﻿{
+    "node_key":"anatolian",
+    "name":"アナトリア語派（絶滅）",
+    "code":"ana",
+    "summary":"印欧語族の中で最も早く他のグループから分岐したと考えられている絶滅語派。他の印欧語がのちに発達させる男性・女性・中性の3性に代わりに生物・無生物の2性を持つほか、複雑な時制・アスペクト体系を持たないなど、他の印欧語と一線を画している。地理的に近隣の非印欧系言語（ハッティ語やフリ語など）から語彙や文法の強い影響を受けた。",
+    "classification":"インド・ヨーロッパ語族",
+    "script":"楔形文字、象形文字",
+    "speakers":"死語",
+    "distribution":"アナトリア地域周辺",
+    "parent":"indoeuropean",
+    "display_order":1,
+    "node_type":"branch",
+    "status":"historical",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%8A%E3%83%88%E3%83%AA%E3%82%A2%E8%AA%9E%E6%B4%BE",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Anatolian_languages"
+}

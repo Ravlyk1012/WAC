@@ -1,0 +1,17 @@
+﻿{
+    "node_key":"indoiranian",
+    "name":"インド・イラン語派",
+    "code":"iir",
+    "summary":"印欧語族最大の語派の一つであり、イラン語派、インド・アーリア語派、ヌーリスターン語派を包括する。共通の「インド・イラン祖語」の段階で、印欧祖語の母音（*/a/, */e/, */o/）がすべて母音 /a/ へと統合される劇的な音韻変化を起こし、祖語の軟口蓋音が歯擦音化するなどサテム語グループに共通する特徴を早期に獲得した。紀元前2千年紀にはすでに共通する宗教概念や社会制度語彙、複雑な名詞・動詞の屈折体系を共有していたと考えられている。",
+    "classification":"インド・ヨーロッパ語族",
+    "script":"ブラーフミー系文字、アラビア・ペルシャ文字、キリル文字、ラテン文字ほか",
+    "speakers":"約17億人",
+    "distribution":"南アジア、西アジア",
+    "parent":"indoeuropean",
+    "display_order":6,
+    "node_type":"branch",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%89%E3%83%BB%E3%82%A4%E3%83%A9%E3%83%B3%E8%AA%9E%E6%B4%BE",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Indo-Iranian_languages"
+}

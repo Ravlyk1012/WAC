@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"old_irish",
+    "name":"†古アイルランド語",
+    "code":"sga",
+    "native_name":"Goídelc/᚛ᚌᚑᚖᚇᚓᚂᚉ᚜",
+    "ipa":"[ˈɡoːi̯ðʲelɡ]",
+    "summary":"6〜10世紀頃のアイルランドで用いられたゲール諸語最古の文献語であり、ラテン文字やオガム文字による豊富な資料が残る。名詞の格変化や複雑な動詞活用など、印欧語の中でも極めて精緻な屈折体系を備え、中世ヨーロッパでも最も詳細に記録された古期言語の一つである。現代ゲール諸語の文法体系は、その多くを古アイルランド語に由来する。",
+    "classification":"インド・ヨーロッパ語族 > ケルト語派 > 島嶼ケルト語群 > ゲール諸語",
+    "script":"オガム文字、ラテン文字",
+    "speakers":"死語",
+    "distribution":"アイルランドなど",
+    "parent":"goidelic",
+    "node_type":"language",
+    "status":"historical",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E5%8F%A4%E3%82%A2%E3%82%A4%E3%83%AB%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Old_Irish",
+    "flag_image":"flags/sga.svg"
+}

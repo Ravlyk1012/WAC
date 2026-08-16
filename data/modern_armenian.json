@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"modern_armenian",
+    "name":"現代アルメニア語",
+    "code":"hye",
+    "native_name":"հայերեն",
+    "ipa":"[hɑjɛˈɾɛn]",
+    "summary":"12世紀以降の中期アルメニア語の変遷を経て、19世紀以降に口語をベースに規範化された現代のアルメニア語。古典語に比べて格変化が一部簡略化され、動詞の活用も複合的な助動詞を用いた表現へと大きく再編成された。歴史的・政治的な経緯から、東アルメニア語と西アルメニア語という、音韻論や文法、表記法において異なる2つの標準語に分裂している。",
+    "classification":"インド・ヨーロッパ語族 > アルメニア語派",
+    "script":"アルメニア文字",
+    "speakers":"約530万人",
+    "distribution":"アルメニア、イラン、ジョージア、トルコほか",
+    "parent":"armenian_br",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%A1%E3%83%8B%E3%82%A2%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Armenian_language",
+    "flag_image":"flags/hye.svg"
+}

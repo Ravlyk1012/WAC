@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"urdu",
+    "name":"ウルドゥー語",
+    "code":"urd",
+    "native_name":"اُردُو",
+    "ipa":"[ˈʊɾd̪uː]",
+    "summary":"パキスタンの国語であり、インドでも公認されている、イスラム教徒のアイデンティティと深く結びついた標準語。ヒンドゥスターニー語をベースにしながらも、表記にはアラビア文字を美しく傾斜させたペルシャ由来のナスタアリーク体を一貫して使用する。標準ヒンディー語と文法構造はほぼ共通であるが、高級語彙や抽象概念、文学的表現のほとんどをペルシャ語およびアラビア語から直接借用しているため、視覚的・語彙的にはヒンディー語と異なる様相を呈する。",
+    "classification":"インド・ヨーロッパ語族 > インド・イラン語派 > インド・アーリア語派 > 中部語群",
+    "script":"アラビア・ペルシャ文字",
+    "speakers":"約2億5000万人",
+    "distribution":"パキスタン、ネパール、バングラデシュほか",
+    "parent":"hindustani",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%AB%E3%83%89%E3%82%A5%E3%83%BC%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Urdu",
+    "flag_image":"flags/urd.svg"
+}

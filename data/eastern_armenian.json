@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"eastern_armenian",
+    "name":"東アルメニア語",
+    "code":"hye",
+    "native_name":"Արևելահայերեն",
+    "ipa":"[ɑɾɛvɛlɑhɑjɛˈɾɛn]",
+    "summary":"アルメニア共和国の公用語であり、イランやロシアなどのアルメニア人コミュニティで話される標準語。古典語が持っていた無気清音・有気清音・有声濁音の3系列の破裂音の対立を比較的よく保持している点が大きな特徴である。ソ連時代に実施された正書法改革（1922年・1940年）を経て、西アルメニア語とは異なる古典語から離れた簡略化された綴り（ソビエト正書法）を採用している。",
+    "classification":"インド・ヨーロッパ語族 > アルメニア語派",
+    "script":"アルメニア文字",
+    "speakers":"約380万人",
+    "distribution":"アルメニア、イラン、ジョージア、ロシア、旧ソ連諸国ほか",
+    "parent":"modern_armenian",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E6%9D%B1%E3%82%A2%E3%83%AB%E3%83%A1%E3%83%8B%E3%82%A2%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Eastern_Armenian",
+    "flag_image":"flags/hye.svg"
+}

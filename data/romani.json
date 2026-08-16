@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"romani",
+    "name":"ロマ語",
+    "code":"rom",
+    "native_name":"rromani ćhib",
+    "ipa":"/romani t͡ʃʰip/",
+    "summary":"中世（10世紀〜11世紀頃）にインド北西部から西へと移動を開始し、現在はヨーロッパを中心に世界中に分散して暮らすロマ（ジプシー）の民族言語。地理的にインド亜大陸から完全に切り離され、長年にわたりギリシャ語、スラヴ語、ゲルマン語、ロマンス語などヨーロッパの諸言語から強い影響を受け、語順や語彙に多様な変化が見られる。しかし、語彙の核心部分や名詞の格変化の基本骨格は、今なおインド・アーリア語派の構造を残している。",
+    "classification":"インド・ヨーロッパ語族 > インド・イラン語派 > インド・アーリア語派",
+    "script":"ラテン文字など",
+    "speakers":"約500万人",
+    "distribution":"ヨーロッパ全域、西アジア",
+    "parent":"indoaryan",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%9E%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Romani_language",
+    "flag_image":"flags/rom.svg"
+}

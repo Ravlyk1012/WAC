@@ -7,6 +7,7 @@
     "speakers":"約3億2000万人",
     "distribution":"ヨーロッパ、旧ソ連諸国、北米など",
     "parent":"indoeuropean",
+    "display_order":7,
     "node_type":"branch",
     "status":"living",
     "controversial":false,

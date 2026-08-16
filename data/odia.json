@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"odia",
+    "name":"オリヤー語（オディア語）",
+    "code":"ori",
+    "native_name":"ଓଡ଼ିଆ",
+    "ipa":"[oˈɽia]",
+    "summary":"インド東部のオディシャ（旧オリッサ）州の公用語であり、古典言語の指定を受けている保守的な言語。ヤシの葉に鉄筆で刻んで書かれていた歴史から、紙を引き裂かないように上部が丸い独特のオリヤー文字を用いる。隣接するベンガル語とは異なり、名詞の格変化の語尾体系を保持しており、音韻論的にも語末母音を保持する傾向にあるなど、古風な特徴を維持している。",
+    "classification":"インド・ヨーロッパ語族 > インド・イラン語派 > インド・アーリア語派 > 東部語群",
+    "script":"オリヤー文字",
+    "speakers":"約3500万人",
+    "distribution":"インド東部オリッサ州ほか",
+    "parent":"e_indoaryan",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AA%E3%83%A4%E3%83%BC%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Odia_language",
+    "flag_image":"flags/ori.svg"
+}

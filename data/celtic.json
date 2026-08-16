@@ -1,0 +1,17 @@
+﻿{
+    "node_key":"celtic",
+    "name":"ケルト語派",
+    "code":"cel",
+    "summary":"印欧語族の主要な語派の一つであり、古代には西ヨーロッパから中欧、さらに小アジアのガラテアにまで広く分布していた。現在ではアイルランド語、ウェールズ語、ブルトン語など少数の言語のみが存続している。島嶼ケルト語では語頭子音変異やVSO語順など独特の文法構造が発達しており、大陸ケルト語とは大きく異なる特徴を示す。",
+    "classification":"インド・ヨーロッパ語族",
+    "script":"ギリシャ文字、オガム文字、ラテン文字",
+    "speakers":"約350万人",
+    "distribution":"ブリテン島、アイルランド、マン島、ブルターニュ地方など",
+    "parent":"indoeuropean",
+    "display_order":10,
+    "node_type":"branch",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%AB%E3%83%88%E8%AA%9E%E6%B4%BE",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Celtic_languages"
+}

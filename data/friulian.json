@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"friulian",
+    "name":"フリウリ語",
+    "code":"fur",
+    "native_name":"furlan",
+    "ipa":"[fuɾˈlaŋ]",
+    "summary":"イタリア北東部のフリウリ地方で話されるレト・ロマンス諸語の主要言語である。周辺のイタリア語、ドイツ語、スロベニア語などと長く接触しながら独自の発展を遂げた。母音の長短が意味の区別に関わることなど、ロマンス諸語の中では比較的特徴的な音韻体系を持ち、地域言語として公的な保護を受けている。",
+    "classification":"インド・ヨーロッパ語族 > イタリック語派 > ラテン・ファリスク語群 > ロマンス諸語 > イタロ・西ロマンス諸語 > レト・ロマンス諸語",
+    "script":"ラテン文字",
+    "speakers":"約60万人",
+    "distribution":"フリウリ地域など",
+    "parent":"rhaetoromance",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AA%E3%82%A6%E3%83%AA%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Friulian_language",
+    "flag_image":"flags/fur.svg"
+}

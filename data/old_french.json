@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"old_french",
+    "name":"†古フランス語",
+    "code":"fro",
+    "native_name":"Franceis, François, Romanz",
+    "ipa":"[fɾãnˈt͡sɛjs], [fɾãnˈt͡sɔjs], [ruˈmãnt͡s]",
+    "summary":"8〜14世紀頃にフランス北部で話されていたガロ・ロマンス諸語であり、現代フランス語の祖先にあたる。ラテン語から発展する過程で大きな音韻変化を経験した一方、名詞にはなお主格と斜格の区別が残されていた。『ローランの歌』などの中世文学によって広く知られている。",
+    "classification":"インド・ヨーロッパ語族 > イタリック語派 > ラテン・ファリスク語群 > ロマンス諸語 > イタロ・西ロマンス諸語 > ガロ・ロマンス諸語",
+    "script":"ラテン文字",
+    "speakers":"死語",
+    "distribution":"フランス北部、ベルギー、イングランド、アイルランドなど",
+    "parent":"galloromance",
+    "node_type":"language",
+    "status":"historical",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E5%8F%A4%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Old_French",
+    "flag_image":"flags/fro.svg"
+}

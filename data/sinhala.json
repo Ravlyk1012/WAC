@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"sinhala",
+    "name":"シンハラ語",
+    "code":"sin",
+    "native_name":"සිංහල භාෂාව",
+    "ipa":"[ˈsiŋɦələ]",
+    "summary":"スリランカの人口の多数を占めるシンハラ人の公用語であり、丸みを帯びた美しい独自のシンハラ文字を用いる。島嶼語群の典型として、サンスクリット由来の帯気音（/bh/ や /dh/ など）を音声的に失い、格体系が大幅に再編された。文法的には、話し言葉（口語）と書き言葉（文語）の二重言語状態が深刻であり、口語では動詞の人称活用が消失している。",
+    "classification":"インド・ヨーロッパ語族 > インド・イラン語派 > インド・アーリア語派 > 島嶼語群",
+    "script":"シンハラ文字",
+    "speakers":"約1800万人",
+    "distribution":"スリランカほか",
+    "parent":"insular_indoaryan",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%83%8F%E3%83%A9%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Sinhala_language",
+    "flag_image":"flags/sin.svg"
+}

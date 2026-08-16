@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"norwegian",
+    "name":"ノルウェー語",
+    "code":"nor",
+    "native_name":"norsk",
+    "ipa":"[ˈnɔʂːk]",
+    "summary":"ノルウェーの公用語であり、西ノルド諸語に属する。歴史的経緯から、ブークモールとニーノシュクという2つの公認書記規範を持つことが大きな特徴である。文法はスウェーデン語やデンマーク語に近い分析的な傾向を示す一方、多くの方言では男性・女性・中性の3性体系を維持しており、東西両系統の特徴をあわせ持つ言語といえる。",
+    "classification":"インド・ヨーロッパ語族 > ゲルマン語派 > 北ゲルマン語群 > 西ノルド諸語",
+    "script":"ラテン文字",
+    "speakers":"約430万人",
+    "distribution":"ノルウェーなど",
+    "parent":"west_scandinavian",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%AB%E3%82%A6%E3%82%A7%E3%83%BC%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Norwegian_language",
+    "flag_image":"flags/nor.svg"
+}

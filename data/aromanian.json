@@ -1,0 +1,19 @@
+﻿{
+    "node_key":"aromanian",
+    "name":"アルーマニア語",
+    "code":"rup",
+    "native_name":"limba armãnã; armãneashti etc.",
+    "ipa":"[ˈlimba aɾˈmɨnə]; [aɾˈmɨnɛaʃti]",
+    "summary":"ギリシャ、アルバニア、北マケドニア、ブルガリアなどバルカン半島南部に点在するアルーマニア人（ヴラフ人）の話す東ロマンス諸語。ルーマニア語とは古くに分岐した姉妹言語であり、長くギリシャ語やアルバニア語などとの接触の中で独自の発展を遂げた。東ロマンス諸語の多様性を示す重要な少数言語である。",
+    "classification":"インド・ヨーロッパ語族 > イタリック語派 > ラテン・ファリスク語群 > ロマンス諸語 > 東ロマンス諸語",
+    "script":"ラテン文字",
+    "speakers":"約20万人",
+    "distribution":"ギリシャ、アルバニア、北マケドニア、ブルガリア、ルーマニア、セルビアなど",
+    "parent":"eastern_romance",
+    "node_type":"language",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%BC%E3%83%9E%E3%83%8B%E3%82%A2%E8%AA%9E",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/Aromanian_language",
+    "flag_image":"flags/rup.svg"
+}

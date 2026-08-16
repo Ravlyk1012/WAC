@@ -1,0 +1,16 @@
+{
+    "node_key":"west_germanic",
+    "name":"西ゲルマン語群",
+    "code":"gmw",
+    "summary":"ドイツ語、オランダ語、英語、フリジア語などを含む、ゲルマン語派最大の語群。共通祖語の段階では、西ゲルマン子音長音化（West Germanic Gemination）などの音韻変化を共有し、その後も各地域で独自の発達を遂げた。現代のゲルマン語話者の大部分は、このグループに属する言語を使用している。",
+    "classification":"インド・ヨーロッパ語族 > ゲルマン語派",
+    "script":"ラテン文字など",
+    "speakers":"約4億9000万人以上（母語話者）",
+    "distribution":"世界各地（中欧、ブリテン諸島、東アフリカ、南部アフリカ、北米、中米、南アジア、東南アジア、オセアニア）",
+    "parent":"germanic",
+    "node_type":"group",
+    "status":"living",
+    "controversial":false,
+    "wikipedia_ja":"https://ja.wikipedia.org/wiki/%E8%A5%BF%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%B3%E8%AA%9E%E7%BE%A4",
+    "wikipedia_en":"https://en.wikipedia.org/wiki/West_Germanic_languages"
+}
