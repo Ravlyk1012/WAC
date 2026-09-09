@@ -73,6 +73,10 @@ async()=>{
     const tree =
         document.getElementById("tree");
 
+        tree.textContent =
+            `読み込み完了: ${nodes.length}件\n` +
+                `ルート: ${nodes.filter(n => !n.parent).length}件`;
+
     nodes
     .filter(n=>!n.parent)
     .forEach(root=>{
