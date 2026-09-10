@@ -675,6 +675,16 @@ function showCard(node){
     const modal =
         document.getElementById("modal");
 
+    // ブラウザ履歴にカード表示状態を追加
+    if (!history.state || !history.state.cardOpen) {
+
+        history.pushState(
+            { cardOpen: true },
+            "",
+            location.href
+        );
+
+    }
 
     // カード生成
 
@@ -757,8 +767,20 @@ document.addEventListener("keydown",(event)=>{
 
 });
 
+window.addEventListener("popstate", ()=>{
 
-function closeCard(){
+    const modal =
+        document.getElementById("modal");
+
+    if(modal.style.display === "flex"){
+
+        closeCard(true);
+
+    }
+
+});
+
+function closeCard(fromHistory = false){
 
     document
     .getElementById("modal")
@@ -768,5 +790,13 @@ function closeCard(){
     document
     .getElementById("tree")
     .classList.remove("blur");
+
+    if(!fromHistory &&
+       history.state &&
+       history.state.cardOpen){
+
+        history.back();
+
+    }
 
 }
