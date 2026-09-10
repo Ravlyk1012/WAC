@@ -73,16 +73,23 @@ async()=>{
     const tree =
         document.getElementById("tree");
 
-        tree.textContent =
-            `読み込み完了: ${nodes.length}件\n` +
-                `ルート: ${nodes.filter(n => !n.parent).length}件`;
+    console.log("JSON全部読み込み完了");
+    console.log("nodes:", nodes.length);
+    console.log("root:", nodes.filter(n => !n.parent));
+    console.log("tree:", tree);
 
     nodes
     .filter(n=>!n.parent)
     .forEach(root=>{
 
+        console.log("ルート生成開始:", root);
+
         tree.appendChild(
             createNode(root, true)
+        );
+
+        console.log("ルート生成完了:", root);
+    });
         );
     });
 });
