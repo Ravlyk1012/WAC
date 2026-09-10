@@ -283,15 +283,10 @@ position:relative;
 }
 
 #close-button{
-    position:sticky;
+    position:absolute;
 
-    top:0;
-    
-    margin-left:auto;
-
-    display:block;
-
-    width:fit-content;
+    top: 15px;
+    right:20px;
 
     font-size:24px;
     font-weight:400;
@@ -635,6 +630,11 @@ pre{
         padding:15px;
 
         border-radius:10px;
+    }
+
+    #close-button{
+        top: 12px;
+        right:15px;
     }
 
     th{
