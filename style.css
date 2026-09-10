@@ -676,3 +676,28 @@ summary,
     display:inline-block;
 
 } 
+
+#d3-tree {
+    width: 100%;
+    height: 80vh;
+}
+
+.tooltip-box {
+    fill: white;
+    stroke: #222;
+    stroke-width: 1;
+}
+
+.tooltip-line {
+    stroke: #222;
+    stroke-width: 1;
+}
+
+.tooltip-title {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.tooltip-description {
+    font-size: 12px;
+}

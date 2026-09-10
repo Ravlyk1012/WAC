@@ -1,5 +1,5 @@
 // =====================================================
-// WAC Prototype 1.0　簡易ツリー完成
+// WAC Prototype 2.0　D3.js導入
 // JSONデータから系統ツリーを自動生成する
 // =====================================================
 // console.log("★★★ WAC DEBUG 最新版 ★★★");
@@ -801,3 +801,322 @@ function closeCard(fromHistory = false){
     }
 
 }
+
+
+// =====================================================
+// D3.js 実験
+// =====================================================
+
+const d3Data = {
+    name: "Indo-European",
+    children: [
+        { name: "Slavic" },
+        { name: "Germanic" },
+        { name: "Romance" },
+        { name: "Celtic" },
+        { name: "Baltic" }
+    ]
+};
+
+const width = 800;
+const height = 600;
+
+const rootX = width / 2;
+const rootY = height / 2;
+
+
+/* ==============================
+   SVG
+============================== */
+
+const svg =
+    d3.select("#d3-tree")
+      .append("svg")
+      .attr("viewBox", `0 0 ${width} ${height}`)
+      .attr("width", "100%")
+      .attr("height", "100%");
+
+const tooltip =
+    svg.append("g")
+       .attr("class", "tooltip")
+       .style("display", "none");
+
+tooltip
+    .append("line")
+    .attr("class", "tooltip-line");
+
+tooltip
+    .append("rect")
+    .attr("class", "tooltip-box")
+    .attr("width", 160)
+    .attr("height", 70)
+    .attr("rx", 8);
+
+tooltip
+    .append("text")
+    .attr("class", "tooltip-title")
+    .attr("x", 15)
+    .attr("y", 25);
+
+tooltip
+    .append("text")
+    .attr("class", "tooltip-description")
+    .attr("x", 15)
+    .attr("y", 48)
+    .text("Test information");
+
+
+/* ==============================
+   ノードデータ
+============================== */
+
+const rootNode = {
+    id: "root",
+    name: d3Data.name,
+    x: rootX,
+    y: rootY,
+    fx: rootX,
+    fy: rootY
+};
+
+const childNodes =
+    d3Data.children.map((child, index) => {
+
+        const angle =
+            (index / d3Data.children.length)
+            * Math.PI * 2;
+
+        return {
+            ...child,
+            id: `child-${index}`,
+            x:
+                rootX +
+                Math.cos(angle) * 150,
+            y:
+                rootY +
+                Math.sin(angle) * 150
+        };
+
+    });
+
+const simulationNodes = [
+    rootNode,
+    ...childNodes
+];
+
+const links =
+    childNodes.map(child => ({
+        source: rootNode,
+        target: child
+    }));
+
+
+/* ==============================
+   線
+============================== */
+
+const linkSelection =
+    svg.selectAll(".link")
+        .data(links)
+        .enter()
+        .append("line")
+        .attr("class", "link");
+
+
+/* ==============================
+   中央ノード
+============================== */
+
+const rootGroup =
+    svg.append("g")
+        .attr("class", "root-group");
+
+rootGroup
+    .append("circle")
+    .attr("class", "root")
+    .attr("r", 30);
+
+rootGroup
+    .append("text")
+    .attr("class", "node-text root-text")
+    .attr("text-anchor", "middle")
+    .attr("dy", 50)
+    .text(rootNode.name);
+
+
+/* ==============================
+   子ノード
+============================== */
+
+const childSelection =
+    svg.selectAll(".child")
+        .data(childNodes)
+        .enter()
+        .append("g")
+        .attr("class", "child");
+
+childSelection
+    .append("circle")
+    .attr("class", "child-circle")
+    .attr("r", 18);
+
+childSelection
+    .append("text")
+    .attr("class", "node-text")
+    .attr("text-anchor", "middle")
+    .attr("dy", 38)
+    .text(d => d.name);
+
+childSelection
+    .on("mouseenter", function(event, d) {
+
+        d.fx = d.x;
+        d.fy = d.y;
+
+        d.floatStopped = true;
+
+        console.log("Hover:", d.name);
+
+        tooltip
+            .style("display", null);
+
+        tooltip
+            .select(".tooltip-title")
+            .text(d.name);
+
+        tooltip
+            .attr(
+                "transform",
+                `translate(${d.x + 40},${d.y - 35})`
+            );
+        tooltip
+            .select(".tooltip-line")
+            .attr("x1", -40)
+            .attr("y1", 35)
+            .attr("x2", 0)
+            .attr("y2", 35);
+
+    })
+    .on("click", function(event, d) {
+
+        event.stopPropagation();
+
+        console.log("Click:", d.name);
+
+        rootNode.name = d.name;
+
+        rootGroup
+            .select(".root-text")
+            .text(rootNode.name);
+
+    });
+
+/* ==============================
+   Force Simulation
+============================== */
+
+const simulation =
+    d3.forceSimulation(simulationNodes)
+        .alphaDecay(0.002)
+
+        .force(
+            "link",
+            d3.forceLink(links)
+                .distance(150)
+                .strength(0.4)
+        )
+
+        .force(
+            "charge",
+            d3.forceManyBody()
+                .strength(-80)
+        )
+
+        .force(
+            "collide",
+            d3.forceCollide()
+                .radius(30)
+        )
+
+        .force(
+            "radial",
+            d3.forceRadial(
+                150,
+                rootX,
+                rootY
+            )
+            .strength(0.2)
+        )
+
+        .on("tick", () => {
+
+            linkSelection
+                .attr("x1", rootX)
+                .attr("y1", rootY)
+                .attr("x2", d => d.target.x)
+                .attr("y2", d => d.target.y);
+
+            childSelection
+                .attr(
+                    "transform",
+                    d => `translate(${d.x},${d.y})`
+                );
+
+            rootGroup
+                .attr(
+                    "transform",
+                    `translate(${rootX},${rootY})`
+                );
+
+        });
+
+function floatNodes() {
+
+    childNodes.forEach((node, index) => {
+
+        node.floatAngle =
+            (node.floatAngle ?? 0)
+            + 0.002;
+
+        node.floatX =
+            Math.cos(node.floatAngle + index)
+            * 15;
+
+        node.floatY =
+            Math.sin(node.floatAngle * 1.3 + index)
+            * 15;
+
+    });
+
+    childSelection
+        .attr(
+            "transform",
+            d => {
+
+                if (d.floatStopped) {
+                    return `translate(${d.x},${d.y})`;
+                }
+
+                return `translate(
+                    ${d.x + d.floatX},
+                    ${d.y + d.floatY}
+                )`;
+            }
+        );
+
+    linkSelection
+        .attr("x1", rootX)
+        .attr("y1", rootY)
+        .attr(
+            "x2",
+            d => d.target.x + d.target.floatX
+        )
+        .attr(
+            "y2",
+            d => d.target.y + d.target.floatY
+        );
+
+    requestAnimationFrame(floatNodes);
+}
+
+floatNodes();
