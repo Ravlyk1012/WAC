@@ -1,5 +1,5 @@
 // =====================================================
-// WAC Prototype 0.3.1
+// WAC Prototype 1.0
 // JSONデータから系統ツリーを自動生成する
 // =====================================================
 // console.log("★★★ WAC DEBUG 最新版 ★★★");
@@ -17,7 +17,9 @@ window.addEventListener(
 "DOMContentLoaded",
 async()=>{
 
+    // ============================
     // 一覧JSON取得
+    // ============================
 
     const list =
         await fetch("data/language.json");
@@ -26,26 +28,48 @@ async()=>{
         await list.json();
 
 
-    // 全JSON読み込み
+    // ============================
+    // 全JSONを並列読み込み
+    // ============================
 
-    for (const file of listData.languages) {
+    const dataList =
+        await Promise.all(
 
-    const res =
-        await fetch(`data/${file}`);
+            listData.languages.map(
+                async file => {
 
-    console.log(file);
+                    console.log("読み込み開始:", file);
 
-    const data =
-        await res.json();
+                    const res =
+                        await fetch(`data/${file}`);
 
-    console.log("読み込み成功:", file);
+                    const data =
+                        await res.json();
 
-    nodes.push(data);
+                    console.log(
+                        "読み込み成功:",
+                        file
+                    );
 
-    // node_keyで検索できるよう登録
-    nodeMap[data.node_key] = data;
+                    return data;
 
-}
+                }
+            )
+
+        );
+
+
+    // ============================
+    // nodes / nodeMap に登録
+    // ============================
+
+    dataList.forEach(data => {
+
+        nodes.push(data);
+
+        nodeMap[data.node_key] = data;
+
+    });
 
 
     // ============================
@@ -55,12 +79,12 @@ async()=>{
     for (const node of nodes) {
 
         if (
-        node.parent &&
-        !nodes.some(n => n.node_key === node.parent)
+            node.parent &&
+            !nodeMap[node.parent]
         ) {
 
-        console.error(
-            `親ノード不存在: ${node.name} -> ${node.parent}`
+            console.error(
+                `親ノード不存在: ${node.name} -> ${node.parent}`
             );
 
         }
@@ -68,28 +92,45 @@ async()=>{
     }
 
 
+    // ============================
     // ルートノード表示
+    // ============================
 
     const tree =
         document.getElementById("tree");
 
+
     console.log("JSON全部読み込み完了");
     console.log("nodes:", nodes.length);
-    console.log("root:", nodes.filter(n => !n.parent));
+
+    console.log(
+        "root:",
+        nodes.filter(n => !n.parent)
+    );
+
     console.log("tree:", tree);
 
-    nodes
-    .filter(n=>!n.parent)
-    .forEach(root=>{
 
-        console.log("ルート生成開始:", root);
+    nodes
+    .filter(n => !n.parent)
+    .forEach(root => {
+
+        console.log(
+            "ルート生成開始:",
+            root
+        );
 
         tree.appendChild(
             createNode(root, true)
         );
 
-        console.log("ルート生成完了:", root);
+        console.log(
+            "ルート生成完了:",
+            root
+        );
+
     });
+
 });
 
 // =====================================================
