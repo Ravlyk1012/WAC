@@ -1,5 +1,5 @@
 // =====================================================
-// WAC Prototype 1.0
+// WAC Prototype 1.0　簡易ツリー完成
 // JSONデータから系統ツリーを自動生成する
 // =====================================================
 // console.log("★★★ WAC DEBUG 最新版 ★★★");
@@ -779,6 +779,7 @@ window.addEventListener("popstate", ()=>{
     }
 
 });
+
 
 function closeCard(fromHistory = false){
 
