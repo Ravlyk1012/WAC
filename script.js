@@ -32,6 +32,8 @@ async()=>{
     // 全JSONを並列読み込み
     // ============================
 
+    console.time("JSON読み込み");
+
     const dataList =
         await Promise.all(
 
@@ -58,6 +60,7 @@ async()=>{
 
         );
 
+    console.timeEnd("JSON読み込み");
 
     // ============================
     // nodes / nodeMap に登録
@@ -110,6 +113,7 @@ async()=>{
 
     console.log("tree:", tree);
 
+    console.time("ツリー生成");
 
     nodes
     .filter(n => !n.parent)
@@ -130,6 +134,8 @@ async()=>{
         );
 
     });
+
+    console.timeEnd("ツリー生成");
 
 });
 
