@@ -620,7 +620,15 @@ pre{
 
     .modal-card{
         width:calc(100% - 20px);
+
+        /* スマホ画面の実際に使える高さ */
+        max-height:80dvh;
+
+        /* カード内部をスクロール */
+        overflow-y:auto;
+
         padding:15px;
+
         border-radius:10px;
     }
 
