@@ -283,10 +283,15 @@ position:relative;
 }
 
 #close-button{
-    position:absolute;
+    position:sticky;
 
-    top:8px;
-    right:14px;
+    top:0;
+    
+    margin-left:auto;
+
+    display:block;
+
+    width:fit-content;
 
     font-size:24px;
     font-weight:400;
